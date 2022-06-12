@@ -4,6 +4,10 @@
     "female": "https://i.ibb.co/V3kX3Cv/bf29432e6e21.jpg"
   },
   {
+    "male": "https://tinyurl.com/26qtkfs2",
+    "female": "https://tinyurl.com/28nyurpc"
+  },
+  {
     "male": "https://tinyurl.com/2a5mo7ec",
     "female": "https://tinyurl.com/2bc48gbw"
   },
