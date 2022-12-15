@@ -1,0 +1,82 @@
+[
+ {
+ index: 0,
+ soal: "Penyanyi luar negeri yang suka naik sepeda?",
+ jawaban: "Selena Gowes"
+ },
+ {
+ index: 1,
+ soal: "Penyanyi luar negeri yang susah menelan?",
+ jawaban: "Ed sered"
+ }, 
+ {
+ index: 2,
+ soal: "Kenapa Superman poni keritingnya cuma satu?",
+ jawaban: "Kalau banyak namanya Supermie"
+ },
+ {
+ index: 3,
+ soal: "Kenapa dalang membawa keris ketika pertunjukan wayang?",
+ jawaban: "Karena kalau bawa kompor, istrinya nggak bisa masak"
+ },
+ {
+ index: 4,
+ soal: "Piring apa yang rame?",
+ jawaban: "Piringatan 17 agustus"
+ },
+ {
+ index: 5,
+ soal: "Artis apa yang bisa angkat kuda sama benteng?",
+ jawaban: "Deni catur"
+ },
+ {
+ index: 6,
+ soal: "Bapak budi punya 3 anak, anak pertama bernama Eka,anak kedua bernama Tri,pertanyaannya siapa nama anak ketiga nya?",
+ jawaban: "Budi"
+ },
+ {
+ index: 7,
+ soal: "Aku ada di tangan,kaki,mata,dan telinga tapi tidak ada di hidung, Apakah aku?",
+ jawaban: "Huruf a"
+ },
+ {
+ index: 8,
+ soal: "Tiang,tiang apa yang nyegerin?",
+ jawaban: "Tiang tiang minum es"
+ },
+ {
+ index: 9,
+ soal: "Artis apa yang suka berpikir?",
+ jawaban: "Ayu thinking"
+ },
+ {
+ index: 10,
+ soal: "Aku ada di depan ibu,di belakang televisi,dan di tengah adik,ketika ayah datang aku tidak ada, Apakah aku?",
+ jawaban: "Huruf i"
+ },
+ {
+ index: 11,
+ soal: "Hewan apa yang punya banyak uang",
+ jawaban: "Ber uang"
+ },
+ {
+ index: 12,
+ soal: "Nama penyakit paling populer di China?",
+ jawaban: "Kung Flu"
+ },
+ {
+ index: 13,
+ soal: "Kenapa ayam kalau berkokok matanya merem alias tutup mata?",
+ jawaban: "Karena sudah hafal liriknya"
+ },
+ {
+ index: 14,
+ soal: "Hewan apa yang nggak pernah salah?",
+ jawaban: "Kucing ga wrong"
+ },
+ {
+ index: 15,
+ soal: "Buah apa yang paling durhaka?",
+ jawaban: "Melon kundang"
+ }
+]
