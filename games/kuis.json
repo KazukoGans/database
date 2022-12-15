@@ -1,102 +1,102 @@
 [
   {
-  index: 0,
-  soal: 'Apa nama mata uang resmi di Indonesia?',
-  jawaban: 'RUPIAH'
+  'index': 0,
+  'soal': 'Apa nama mata uang resmi di Indonesia?',
+  'jawaban': 'RUPIAH'
   },
   {
-  index: 1,
-  soal: 'Siapa presiden Indonesia saat ini? ',
-  jawaban: 'JOKO WIDODO'
+  ''index'': 1,
+  'soal': 'Siapa presiden Indonesia saat ini? ',
+  'jawaban': 'JOKO WIDODO'
   },
   {
-  index: 2,
-  soal: 'Apa nama ibukota Indonesia?',
-  jawaban: 'JAKARTA'
+  'index': 2,
+  'soal': 'Apa nama ibukota Indonesia?',
+  'jawaban': 'JAKARTA'
   },
   {
-  index: 3,
-  soal: 'Siapa yang menjadi wakil presiden Indonesia pada masa kepemimpinan Joko Widodo?',
-  jawaban: 'MA RUF AMIN'
+  'index': 3,
+  'soal': 'Siapa yang menjadi wakil presiden Indonesia pada masa kepemimpinan Joko Widodo?',
+  'jawaban': 'MA RUF AMIN'
   },
   {
-  index: 4,
-  soal: 'Siapa penulis lagu Indonesia Raya?',
-  jawaban: 'WAGE RODULOF SOEPRATMAN'
+  'index': 4,
+  'soal': 'Siapa penulis lagu Indonesia Raya?',
+  'jawaban': 'WAGE RODULOF SOEPRATMAN'
   },
   {
-  index: 5,
-  soal: 'Apa nama lagu kebangsaan Indonesia? ',
-  jawaban: 'INDONESIA RAYA'
+  'index': 5,
+  'soal': 'Apa nama lagu kebangsaan Indonesia? ',
+  'jawaban': 'INDONESIA RAYA'
   },
   {
-  index: 6,
-  soal: 'Berapakah angka dasar pancasila?',
-  jawaban: 'LIMA'
+  'index': 6,
+  'soal': 'Berapakah angka dasar pancasila?',
+  'jawaban': 'LIMA'
   },
   {
-  index: 7,
-  soal: 'Siapa nama presiden indonesia pertama?',
-  jawaban: 'IR SOEKARNO'
+  'index': 7,
+  'soal': 'Siapa nama presiden indonesia pertama?',
+  'jawaban': 'IR SOEKARNO'
   },
   {
-  index: 8,
-  soal: 'Siapa nama ibu kota provinsi sumatra utara?',
-  jawaban: 'MEDAN'
+  'index': 8,
+  'soal': 'Siapa nama ibu kota provinsi sumatra utara?',
+  'jawaban': 'MEDAN'
   },
   {
-  index: 9,
-  soal: 'Siapa nama penemu lampu pijar?',
-  jawaban: 'TOMAS ALVA EDISON'
+  'index': 9,
+  'soal': 'Siapa nama penemu lampu pijar?',
+  'jawaban': 'TOMAS ALVA EDISON'
   },
   {
-  index: 10,
-  soal: 'Siapa nama penemu listrik?',
-  jawaban: 'NIKOLA TESLA'
+  'index': 10,
+  'soal': 'Siapa nama penemu listrik?',
+  'jawaban': 'NIKOLA TESLA'
   },
   {
-  index: 11,
-  soal: 'Siapa nama penemu internet?',
-  jawaban: 'TIM BERNERS LEE'
+  'index': 11,
+  'soal': 'Siapa nama penemu internet?',
+  'jawaban': 'TIM BERNERS LEE'
   },
   {
-  index: 12,
-  soal: 'Apa nama planet terdekat bumi?',
-  jawaban: 'MERKURIUS'
+  'index': 12,
+  'soal': 'Apa nama planet terdekat bumi?',
+  'jawaban': 'MERKURIUS'
   },
   {
-  index: 13,
-  soal: 'Apa nama lautan terluas di dunia?',
-  jawaban: 'LAUTAN PASIFIK'
+  'index': 13,
+  'soal': 'Apa nama lautan terluas di dunia?',
+  'jawaban': 'LAUTAN PASIFIK'
   },
   {
-  index: 14,
-  soal: 'Siapa pencipta bahasa c?',
-  jawaban: 'DENNIS RITCHIE'
+  'index': 14,
+  'soal': 'Siapa pencipta bahasa c?',
+  'jawaban': 'DENNIS RITCHIE'
   },
   {
-  index: 15,
-  soal: 'Siapa yang menulis novel harry potter?',
-  jawaban: 'JK ROWLING'
+  'index': 15,
+  'soal': 'Siapa yang menulis novel harry potter?',
+  'jawaban': 'JK ROWLING'
   },
   {
-  index: 16,
-  soal: 'Siapa yang menciptakan facebook?',
-  jawaban: 'MARK ZUCKERBERG'
+  'index': 16,
+  'soal': 'Siapa yang menciptakan facebook?',
+  'jawaban': 'MARK ZUCKERBERG'
   },
   {
-  index: 17,
-  soal: 'Berapakah jumblah benua di bumi?',
-  jawaban: 'TUJUH'
+  'index': 17,
+  'soal': 'Berapakah jumblah benua di bumi?',
+  'jawaban': 'TUJUH'
   },
   {
-  index: 18,
-  soal: 'Siapa nama ilmuwan yang menemukan bola api?',
-  jawaban: 'ROBERT BOYLE'
+  'index': 18,
+  'soal': 'Siapa nama ilmuwan yang menemukan bola api?',
+  'jawaban': 'ROBERT BOYLE'
   },
   {
-  index: 19,
-  soal: 'Siapa Penemu Komputer?',
-  jawaban: 'CHARLES BABBAGE'
+  'index': 19,
+  'soal': 'Siapa Penemu Komputer?',
+  'jawaban': 'CHARLES BABBAGE'
   }
 ]
