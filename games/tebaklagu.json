@@ -45,24 +45,24 @@
     artis: 'Ciara'
   },
   {
-  lagu: 'https://raw.githubusercontent.com/KazukoGans/database/main/media/ithinkilikewhenitrains.opus',
-  judul: 'I Think I Like When It Rains',
-  artis: 'WILLIS'
+    lagu: 'https://raw.githubusercontent.com/KazukoGans/database/main/media/ithinkilikewhenitrains.opus',
+    judul: 'I Think I Like When It Rains',
+    artis: 'WILLIS'
   },
   {
-  lagu: 'https://raw.githubusercontent.com/KazukoGans/database/main/media/tadow.opus',
-  judul: 'Tadow',
-  artis: 'Masego + FKJ'
+    lagu: 'https://raw.githubusercontent.com/KazukoGans/database/main/media/tadow.opus',
+    judul: 'Tadow',
+    artis: 'Masego + FKJ'
   },
   {
-  lagu: 'https://raw.githubusercontent.com/KazukoGans/database/main/media/jealous.opus',
-  judul: 'Jealous',
-  artis: 'Eyedress'
+    lagu: 'https://raw.githubusercontent.com/KazukoGans/database/main/media/jealous.opus',
+    judul: 'Jealous',
+    artis: 'Eyedress'
   },
   {
-  lagu: 'https://raw.githubusercontent.com/KazukoGans/database/main/media/bad.opus',
-  judul: 'bad',
-  artis: 'wave to earth'
+    lagu: 'https://raw.githubusercontent.com/KazukoGans/database/main/media/bad.opus',
+    judul: 'bad',
+    artis: 'wave to earth'
   },
   {
     lagu: 'https://raw.githubusercontent.com/KazukoGans/database/main/media/radio.opus',
