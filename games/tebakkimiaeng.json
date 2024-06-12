@@ -1,4 +1,474 @@
 [
+{
+    "unsur": "Hydrogen",
+    "lambang": "H"
+},
+{
+    "unsur": "Helium",
+    "lambang": "He"
+  },
   {
+    "unsur": "Lithium",
+    "lambang": "Li"
+  },
+  {
+    "unsur": "Beryllium",
+    "lambang": "Be"
+  },
+  {
+    "unsur": "Boron",
+    "lambang": "B"
+  },
+  {
+    "unsur": "Carbon",
+    "lambang": "C"
+  },
+  {
+    "unsur": "Nitrogen",
+    "lambang": "N"
+  },
+  {
+    "unsur": "Oxygen",
+    "lambang": "O"
+  },
+  {
+    "unsur": "Fluorine",
+    "lambang": "F"
+  },
+  {
+    "unsur": "Neon",
+    "lambang": "Ne"
+  },
+  {
+    "unsur": "Sodium",
+    "lambang": "Na"
+  },
+  {
+    "unsur": "Magnesium",
+    "lambang": "Mg"
+  },
+  {
+    "unsur": "Aluminium",
+    "lambang": "Al"
+  },
+  {
+    "unsur": "Silicon",
+    "lambang": "Si"
+  },
+  {
+    "unsur": "Phosphorus",
+    "lambang": "P"
+  },
+  {
+    "unsur": "Sulfur",
+    "lambang": "S"
+  },
+  {
+    "unsur": "Chlorine",
+    "lambang": "Cl"
+  },
+  {
+    "unsur": "Argon",
+    "lambang": "Ar"
+  },
+  {
+    "unsur": "Potassium",
+    "lambang": "K"
+  },
+  {
+    "unsur": "Calcium",
+    "lambang": "Ca"
+  },
+  {
+    "unsur": "Scandium",
+    "lambang": "Sc"
+  },
+  {
+    "unsur": "Titanium",
+    "lambang": "Ti"
+  },
+  {
+    "unsur": "Vanadium",
+    "lambang": "V"
+  },
+  {
+    "unsur": "Chromium",
+    "lambang": "Cr"
+  },
+  {
+    "unsur": "Manganese",
+    "lambang": "Mn"
+  },    
+  {
+    "unsur": "Iron",
+    "lambang": "Fe"
+  },  
+  {
+    "unsur": "Cobalt",
+    "lambang": "Co"
+  },  
+  {
+    "unsur": "Nickel",
+    "lambang": "Ni"
+  },  
+  {
+    "unsur": "Copper",
+    "lambang": "Cu"
+  },  
+  {
+    "unsur": "Zinc",
+    "lambang": "Zn"
+  },  
+  {
+    "unsur": "Gallium",
+    "lambang": "Ga"
+  },  
+  {
+    "unsur": "Germanium",
+    "lambang": "Ge"
+  },      
+  {
+    "unsur": "Arsenic",
+    "lambang": "As"
+  },  
+  {
+    "unsur": "Selenium",
+    "lambang": "Se"
+  },  
+  {
+    "unsur": "Bromine",
+    "lambang": "Br"
+  },  
+  {
+    "unsur": "Krypton",
+    "lambang": "Kr"
+  },  
+  {
+    "unsur": "Rubidium",
+    "lambang": "Rb"
+  },  
+  {
+    "unsur": "Strontium",
+    "lambang": "Sr"
+  },  
+  {
+    "unsur": "Yttrium",
+    "lambang": "Y"
+  },  
+  {
+    "unsur": "Zirconium",
+    "lambang": "Zr"
+  },  
+  {
+    "unsur": "Niobium",
+    "lambang": "Nb"
+  },  
+  {
+    "unsur": "Molybdenum",
+    "lambang": "Mo"
+  },  
+  {
+    "unsur": "Technetium",
+    "lambang": "Tc"
+  },  
+  {
+    "unsur": "Ruthenium",
+    "lambang": "Ru"
+  },  
+  {
+    "unsur": "Rhodium",
+    "lambang": "Rh"
+  },    
+  {
+    "unsur": "Palladium",
+    "lambang": "Pd"
+  },  
+  {
+    "unsur": "Silver",
+    "lambang": "Ag"
+  },  
+  {
+    "unsur": "Cadmium",
+    "lambang": "Cd"
+  },  
+  {
+    "unsur": "Indium",
+    "lambang": "In"
+  },  
+  {
+    "unsur": "Tin",
+    "lambang": "Sn"
+  },  
+  {
+    "unsur": "Antimony",
+    "lambang": "Sb"
+  },  
+  {
+    "unsur": "Tellurium",
+    "lambang": "Te"
+  },  
+  {
+    "unsur": "Iodine",
+    "lambang": "I"
+  },  
+  {
+    "unsur": "Xenon",
+    "lambang": "Xe"
+  },  
+  {
+    "unsur": "Cesium",
+    "lambang": "Cs"
+  },  
+  {
+    "unsur": "Barium",
+    "lambang": "Ba"
+  },  
+  {
+    "unsur": "Lanthanum",
+    "lambang": "La"
+  },  
+  {
+    "unsur": "Cerium",
+    "lambang": "Ce"
+  },  
+  {
+    "unsur": "Praseodymium",
+    "lambang": "Pr"
+  },  
+  {
+    "unsur": "Neodymium",
+    "lambang": "Nd"
+  },  
+  {
+    "unsur": "Promethium",
+    "lambang": "Pm"
+  },  
+  {
+    "unsur": "Samarium",
+    "lambang": "Sm"
+  },  
+  {
+    "unsur": "Europium",
+    "lambang": "Eu"
+  },  
+  {
+    "unsur": "Gadolinium",
+    "lambang": "Gd"
+  },  
+  {
+    "unsur": "Terbium",
+    "lambang": "Tb"
+  },  
+  {
+    "unsur": "Dysprosium",
+    "lambang": "Dy"
+  },  
+  {
+    "unsur": "Holmium",
+    "lambang": "Ho"
+  },  
+  {
+    "unsur": "Erbium",
+    "lambang": "Er"
+  },  
+  {
+    "unsur": "Thulium",
+    "lambang": "Tm"
+  },  
+  {
+    "unsur": "Ytterbium",
+    "lambang": "Yb"
+  },  
+  {
+    "unsur": "Lutetium",
+    "lambang": "Lu"
+  },  
+  {
+    "unsur": "Hafnium",
+    "lambang": "Hf"
+  },  
+  {
+    "unsur": "Tantalum",
+    "lambang": "Ta"
+  },  
+  {
+    "unsur": "Tungsten",
+    "lambang": "W"
+  },  
+  {
+    "unsur": "Rhenium",
+    "lambang": "Re"
+  },  
+  {
+    "unsur": "Osmium",
+    "lambang": "Os"
+  },  
+  {
+    "unsur": "Iridium",
+    "lambang": "Ir"
+  },  
+  {
+    "unsur": "Platinum",
+    "lambang": "Pt"
+  },  
+  {
+    "unsur": "Gold",
+    "lambang": "Au"
+  },  
+  {
+    "unsur": "Mercury",
+    "lambang": "Hg"
+  },  
+  {
+    "unsur": "Thallium",
+    "lambang": "Tl"
+  },  
+  {
+    "unsur": "Lead",
+    "lambang": "Pb"
+  },  
+  {
+    "unsur": "Bismuth",
+    "lambang": "Bi"
+  },  
+  {
+    "unsur": "Polonium",
+    "lambang": "Po"
+  },  
+  {
+    "unsur": "Astatine",
+    "lambang": "At"
+  },  
+  {
+    "unsur": "Radon",
+    "lambang": "Rn"
+  },  
+  {
+    "unsur": "Francium",
+    "lambang": "Fr"
+  },  
+  {
+    "unsur": "Radium",
+    "lambang": "Ra"
+  },  
+  {
+    "unsur": "Actinium",
+    "lambang": "Ac"
+  },  
+  {
+    "unsur": "Thorium",
+    "lambang": "Th"
+  },  
+  {
+    "unsur": "Protactinium",
+    "lambang": "Pa"
+  },  
+  {
+    "unsur": "Uranium",
+    "lambang": "U"
+  },  
+  {
+    "unsur": "Neptunium",
+    "lambang": "Np"
+  },  
+  {
+    "unsur": "Plutonium",
+    "lambang": "Pu"
+  },  
+  {
+    "unsur": "Americium",
+    "lambang": "Am"
+  },  
+  {
+    "unsur": "Curium",
+    "lambang": "Cm"
+  },  
+  {
+    "unsur": "Berkelium",
+    "lambang": "Bk"
+  },  
+  {
+    "unsur": "Californium",
+    "lambang": "Cf"
+  },  
+  {
+    "unsur": "Einsteinium",
+    "lambang": "Es"
+  },  
+  {
+    "unsur": "Fermium",
+    "lambang": "Fm"
+  },  
+  {
+    "unsur": "Mendelevium",
+    "lambang": "Md"
+  },  
+  {
+    "unsur": "Nobelium",
+    "lambang": "No"
+  },  
+  {
+    "unsur": "Lawrencium",
+    "lambang": "Lr"
+  },  
+  {
+    "unsur": "Rutherfordium",
+    "lambang": "Rf"
+  },  
+  {
+    "unsur": "Dubnium",
+    "lambang": "Db"
+  },  
+  {
+    "unsur": "Seaborgium",
+    "lambang": "Sg"
+  },  
+  {
+    "unsur": "Bohrium",
+    "lambang": "Bh"
+  },  
+  {
+    "unsur": "Hassium",
+    "lambang": "Hs"
+  },  
+  {
+    "unsur": "Meitnerium",
+    "lambang": "Mt"
+  },  
+  {
+    "unsur": "Darmstadtium",
+    "lambang": "Ds"
+  },  
+  {
+    "unsur": "Roentgenium",
+    "lambang": "Rg"
+  },  
+  {
+    "unsur": "Copernicium",
+    "lambang": "Cn"
+  },  
+  {
+    "unsur": "Ununtrium",
+    "lambang": "Uut"
+  },  
+  {
+    "unsur": "Ununquadium",
+    "lambang": "Uuq"
+  },  
+  {
+    "unsur": "Ununpentium",
+    "lambang": "Uup"
+  },  
+  {
+    "unsur": "Ununhexium",
+    "lambang": "Uuh"
+  },  
+  {
+    "unsur": "Ununseptium",
+    "lambang": "Uus"
+  },  
+  {
+    "unsur": "Ununoctium",
+    "lambang": "Uuo"
   }
 ]
