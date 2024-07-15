@@ -1,0 +1,195 @@
+[
+
+    {
+        "img": "https://wallpapercave.com/wp/wp7756609.jpg",
+        "jawaban": "Pou"
+        },
+    {
+        "img": "https://images3.alphacoders.com/863/863236.jpg",
+        "jawaban": "Clash of Clans"
+        },
+    {
+        "img": "https://images8.alphacoders.com/855/855972.jpg",
+        "jawaban": "Clash Royale"
+        },
+    {
+        "img": "https://wallpapercave.com/wp/wp1972779.png",
+        "jawaban": "Boom Beach"
+        },
+    {
+        "img": "https://wallpapercave.com/wp/wp3624905.png",
+        "jawaban": "Hay Day"
+        },
+    {
+        "img": "https://images4.alphacoders.com/100/1005690.jpg",
+        "jawaban": "Grand Theft Auto San Andreas"
+        },
+    {
+        "img": "https://images6.alphacoders.com/117/1173817.jpg",
+        "jawaban": "Genshin Impact"
+        },
+    {
+        "img": "https://images4.alphacoders.com/113/1131196.jpg",
+        "jawaban": "Honkai Impact"
+        },
+    {
+        "img": "https://wallpapercave.com/wp/wp2315446.jpg",
+        "jawaban": "Subway Surfers"
+        },
+    {
+        "img": "https://wallpapercave.com/wp/wp2444769.jpg",
+        "jawaban": "Temple Run"
+        },
+    {
+        "img": "https://wallpapercave.com/wp/wp2403882.png",
+        "jawaban": "My Talking Tom"
+        },
+    {
+        "img": "https://wallpapercave.com/wp/wp2418149.jpg",
+        "jawaban": "Talking Angela"
+        },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Piano_Tiles_2_logo.png",
+        "jawaban": "Piano Tiles 2"
+        },
+    {
+        "img": "https://wallpapercave.com/wp/wp7442422.jpg",
+        "jawaban": "Henry Stickmin"
+        },
+    {
+        "img": "https://wallpapercave.com/wp/wp1899269.jpg",
+        "jawaban": "Lost Saga"
+        },
+    {
+        "img": "https://p4.wallpaperbetter.com/wallpaper/760/328/984/zjsstc-iron-saga-official-long-hair-wallpaper-preview.jpg",
+        "jawaban": "Iron Saga"
+        },
+    {
+        "img": "https://images7.alphacoders.com/423/423177.jpg",
+        "jawaban": "Minecraft"
+        },
+    {
+        "img": "https://images3.alphacoders.com/594/594233.jpg",
+        "jawaban": "Resident Evil 4"
+        },
+    {
+        "img": "https://wallpapercave.com/wp/wp1898996.jpg",
+        "jawaban": "Grand Theft Auto Vice City"
+        },
+    {
+        "img": "https://images4.alphacoders.com/823/823198.jpg",
+        "jawaban": "Grand Theft Auto V"
+        },
+    {
+        "img": "https://images4.alphacoders.com/242/242928.jpg",
+        "jawaban": "Guitar Hero"
+        },
+    {
+        "img": "https://images.alphacoders.com/655/655419.jpg",
+        "jawaban": "Bully"
+        },
+    {
+        "img": "https://images.alphacoders.com/512/512466.jpg",
+        "jawaban": "League of Legends"
+        },
+    {
+        "img": "https://images2.alphacoders.com/474/474206.jpg",
+        "jawaban": "DotA II"
+        },
+    {
+        "img": "https://c4.wallpaperflare.com/wallpaper/274/29/113/digital-art-drawing-people-nier-automata-wallpaper-preview.jpg",
+        "jawaban": "Mobile Legends Bang Bang"
+        },
+    {
+        "img": "https://images3.alphacoders.com/816/816720.jpg",
+        "jawaban": "Player Unknowns Battleground"
+        },
+    {
+        "img": "https://telegra.ph/file/0b698504c9ed88fffae51.jpg",
+        "jawaban": "Point Blank"
+        },
+    {
+        "img": "https://telegra.ph/file/24126e011c821ee38b7fc.jpg",
+        "jawaban": "Basara"
+        },
+    {
+        "img": "https://telegra.ph/file/72f55035f68a6e347dd13.jpg",
+        "jawaban": "Mortal Combat Shaolin Monks"
+        },
+    {
+        "img": "https://telegra.ph/file/9ddfcde7a04cfbe7ffb5b.jpg",
+        "jawaban": "Metal Slug"
+        },
+    {
+        "img": "https://telegra.ph/file/876178b79b966f51f2ae3.jpg",
+        "jawaban": "Downhill"
+        },
+    {
+        "img": "https://telegra.ph/file/7bd6e614346b295267d2c.jpg",
+        "jawaban": "Plants Vs Zombie"
+        },
+    {
+        "img": "https://telegra.ph/file/a23466ade02fb4139eb56.jpg",
+        "jawaban": "Zuma"
+        },
+    {
+        "img": "https://telegra.ph/file/47f581c076bdad5b3d139.jpg",
+        "jawaban": "Insaniquarium"
+        },
+    {
+        "img": "https://telegra.ph/file/83d16a4600502050c3f6f.jpg",
+        "jawaban": "Platypus"
+        },
+    {
+        "img": "https://telegra.ph/file/5b817550f7e9445395835.jpg",
+        "jawaban": "Rumble Racing"
+        },
+    {
+        "img": "https://telegra.ph/file/6bcffefd098c20f0c1964.jpg",
+        "jawaban": "Free Fire"
+        },
+    {
+        "img": "https://telegra.ph/file/89181f4f53fb595ce9bfa.jpg",
+        "jawaban": "Pubg Mobile"
+        },
+    {
+        "img": "https://telegra.ph/file/2840dde3c4ca7cb7c9260.jpg",
+        "jawaban": "Lords Mobile Tower Defense"
+        },
+    {
+        "img": "https://telegra.ph/file/4af176b71e27303081c1d.jpg",
+        "jawaban": "Plants Vs Zombie 2"
+        },
+    {
+        "img": "https://telegra.ph/file/27ca32f46c788f726f82f.jpg",
+        "jawaban": "Tts Cak Lontong"
+        },
+    {
+        "img": "https://telegra.ph/file/500cb1326299bc1acb706.jpg",
+        "jawaban": "Brain Out"
+        },     
+    {
+        "img": "https://telegra.ph/file/2d1f9c72d3f9ea4c08669.jpg",
+        "jawaban": "Words Of Wonders"
+        },
+    {
+        "img": "https://telegra.ph/file/27ad336666a19c4cc82ab.jpg",
+        "jawaban": "Stickman Party"
+        },
+    {
+        "img": "https://telegra.ph/file/966efa677cfa70b452147.jpg",
+        "jawaban": "Tiles Hop"
+        },  
+    {
+        "img": "https://telegra.ph/file/e03bc19855a6b04d7263f.jpg",
+        "jawaban": "Bus Simulator Indonesia"
+        },
+    {
+        "img": "https://telegra.ph/file/29d95959d8be96aad1a28.jpg",
+        "jawaban": "Stumble Guys"
+        }, 
+    {
+        "img": "https://telegra.ph/file/eefbd2c1ebfd9838a79b7.jpg",
+        "jawaban": "Sandy Crush Saga"
+        }                               
+]
