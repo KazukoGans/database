@@ -1,0 +1,548 @@
+[
+  {
+    name: 'Albedo',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Albedo.png',
+    elementType: 'Geo',
+    link: 'https://genshin.gg/characters/albedo/'
+  },
+  {
+    name: 'Alhaitham',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Alhaitham.png',
+    elementType: 'Dendro',
+    link: 'https://genshin.gg/characters/alhaitham/'
+  },
+  {
+    name: 'Aloy',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png',
+    elementType: 'Cryo',
+    link: 'https://genshin.gg/characters/aloy/'
+  },
+  {
+    name: 'Arlecchino',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Arlecchino.png',
+    elementType: 'Pyro',
+    link: 'https://genshin.gg/characters/arlecchino/'
+  },
+  {
+    name: 'Ayaka',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Ayaka.png',
+    elementType: 'Cryo',
+    link: 'https://genshin.gg/characters/ayaka/'
+  },
+  {
+    name: 'Ayato',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Ayato.png',
+    elementType: 'Hydro',
+    link: 'https://genshin.gg/characters/ayato/'
+  },
+  {
+    name: 'Baizhu',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Baizhu.png',
+    elementType: 'Dendro',
+    link: 'https://genshin.gg/characters/baizhu/'
+  },
+  {
+    name: 'Childe',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Childe.png',
+    elementType: 'Hydro',
+    link: 'https://genshin.gg/characters/childe/'
+  },
+  {
+    name: 'Chiori',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Chiori.png',
+    elementType: 'Geo',
+    link: 'https://genshin.gg/characters/chiori/'
+  },
+  {
+    name: 'Clorinde',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Clorinde.png',
+    elementType: 'Electro',
+    link: 'https://genshin.gg/characters/clorinde/'
+  },
+  {
+    name: 'Cyno',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png',
+    elementType: 'Electro',
+    link: 'https://genshin.gg/characters/cyno/'
+  },
+  {
+    name: 'Dehya',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Dehya.png',
+    elementType: 'Pyro',
+    link: 'https://genshin.gg/characters/dehya/'
+  },
+  {
+    name: 'Diluc',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Diluc.png',
+    elementType: 'Pyro',
+    link: 'https://genshin.gg/characters/diluc/'
+  },
+  {
+    name: 'Emilie',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Emilie.png',
+    elementType: 'Dendro',
+    link: 'https://genshin.gg/characters/emilie/'
+  },
+  {
+    name: 'Eula',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Eula.png',
+    elementType: 'Cryo',
+    link: 'https://genshin.gg/characters/eula/'
+  },
+  {
+    name: 'Furina',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Furina.png',
+    elementType: 'Hydro',
+    link: 'https://genshin.gg/characters/furina/'
+  },
+  {
+    name: 'Ganyu',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Ganyu.png',
+    elementType: 'Cryo',
+    link: 'https://genshin.gg/characters/ganyu/'
+  },
+  {
+    name: 'Hu Tao',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Hu Tao.png',
+    elementType: 'Pyro',
+    link: 'https://genshin.gg/characters/hutao/'
+  },
+  {
+    name: 'Itto',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Itto.png',
+    elementType: 'Geo',
+    link: 'https://genshin.gg/characters/itto/'
+  },
+  {
+    name: 'Jean',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Jean.png',
+    elementType: 'Anemo',
+    link: 'https://genshin.gg/characters/jean/'
+  },
+  {
+    name: 'Kazuha',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Kazuha.png',
+    elementType: 'Anemo',
+    link: 'https://genshin.gg/characters/kazuha/'
+  },
+  {
+    name: 'Keqing',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Keqing.png',
+    elementType: 'Electro',
+    link: 'https://genshin.gg/characters/keqing/'
+  },
+  {
+    name: 'Klee',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Klee.png',
+    elementType: 'Pyro',
+    link: 'https://genshin.gg/characters/klee/'
+  },
+  {
+    name: 'Kokomi',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Kokomi.png',
+    elementType: 'Hydro',
+    link: 'https://genshin.gg/characters/kokomi/'
+  },
+  {
+    name: 'Lyney',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png',
+    elementType: 'Pyro',
+    link: 'https://genshin.gg/characters/lyney/'
+  },
+  {
+    name: 'Mona',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Mona.png',
+    elementType: 'Hydro',
+    link: 'https://genshin.gg/characters/mona/'
+  },
+  {
+    name: 'Mualani',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Mualani.png',
+    elementType: 'Hydro',
+    link: 'https://genshin.gg/characters/mualani/'
+  },
+  {
+    name: 'Nahida',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Nahida.png',
+    elementType: 'Dendro',
+    link: 'https://genshin.gg/characters/nahida/'
+  },
+  {
+    name: 'Navia',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Navia.png',
+    elementType: 'Geo',
+    link: 'https://genshin.gg/characters/navia/'
+  },
+  {
+    name: 'Neuvillette',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png',
+    elementType: 'Hydro',
+    link: 'https://genshin.gg/characters/neuvillette/'
+  },
+  {
+    name: 'Nilou',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Nilou.png',
+    elementType: 'Hydro',
+    link: 'https://genshin.gg/characters/nilou/'
+  },
+  {
+    name: 'Qiqi',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Qiqi.png',
+    elementType: 'Cryo',
+    link: 'https://genshin.gg/characters/qiqi/'
+  },
+  {
+    name: 'Raiden',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Raiden.png',
+    elementType: 'Electro',
+    link: 'https://genshin.gg/characters/raiden/'
+  },
+  {
+    name: 'Shenhe',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Shenhe.png',
+    elementType: 'Cryo',
+    link: 'https://genshin.gg/characters/shenhe/'
+  },
+  {
+    name: 'Sigewinne',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Sigewinne.png',
+    elementType: 'Hydro',
+    link: 'https://genshin.gg/characters/sigewinne/'
+  },
+  {
+    name: 'Tighnari',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png',
+    elementType: 'Dendro',
+    link: 'https://genshin.gg/characters/tighnari/'
+  },
+  {
+    name: 'Traveler (Anemo)',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png',
+    elementType: 'Anemo',
+    link: 'https://genshin.gg/characters/traveler(anemo)/'
+  },
+  {
+    name: 'Traveler (Dendro)',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png',
+    elementType: 'Dendro',
+    link: 'https://genshin.gg/characters/traveler(dendro)/'
+  },
+  {
+    name: 'Traveler (Electro)',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Electro).png',
+    elementType: 'Electro',
+    link: 'https://genshin.gg/characters/traveler(electro)/'
+  },
+  {
+    name: 'Traveler (Geo)',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Geo).png',
+    elementType: 'Geo',
+    link: 'https://genshin.gg/characters/traveler(geo)/'
+  },
+  {
+    name: 'Traveler (Hydro)',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png',
+    elementType: 'Hydro',
+    link: 'https://genshin.gg/characters/traveler(hydro)/'
+  },
+  {
+    name: 'Venti',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Venti.png',
+    elementType: 'Anemo',
+    link: 'https://genshin.gg/characters/venti/'
+  },
+  {
+    name: 'Wanderer',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Wanderer.png',
+    elementType: 'Anemo',
+    link: 'https://genshin.gg/characters/wanderer/'
+  },
+  {
+    name: 'Wriothesley',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Wriothesley.png',
+    elementType: 'Cryo',
+    link: 'https://genshin.gg/characters/wriothesley/'
+  },
+  {
+    name: 'Xianyun',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Xianyun.png',
+    elementType: 'Anemo',
+    link: 'https://genshin.gg/characters/xianyun/'
+  },
+  {
+    name: 'Xiao',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Xiao.png',
+    elementType: 'Anemo',
+    link: 'https://genshin.gg/characters/xiao/'
+  },
+  {
+    name: 'Yae Miko',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Yae Miko.png',
+    elementType: 'Electro',
+    link: 'https://genshin.gg/characters/yaemiko/'
+  },
+  {
+    name: 'Yelan',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Yelan.png',
+    elementType: 'Hydro',
+    link: 'https://genshin.gg/characters/yelan/'
+  },
+  {
+    name: 'Yoimiya',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Yoimiya.png',
+    elementType: 'Pyro',
+    link: 'https://genshin.gg/characters/yoimiya/'
+  },
+  {
+    name: 'Zhongli',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Zhongli.png',
+    elementType: 'Geo',
+    link: 'https://genshin.gg/characters/zhongli/'
+  },
+  {
+    name: 'Amber',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Amber.png',
+    elementType: 'Pyro',
+    link: 'https://genshin.gg/characters/amber/'
+  },
+  {
+    name: 'Barbara',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png',
+    elementType: 'Hydro',
+    link: 'https://genshin.gg/characters/barbara/'
+  },
+  {
+    name: 'Beidou',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Beidou.png',
+    elementType: 'Electro',
+    link: 'https://genshin.gg/characters/beidou/'
+  },
+  {
+    name: 'Bennett',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Bennett.png',
+    elementType: 'Pyro',
+    link: 'https://genshin.gg/characters/bennett/'
+  },
+  {
+    name: 'Candace',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Candace.png',
+    elementType: 'Hydro',
+    link: 'https://genshin.gg/characters/candace/'
+  },
+  {
+    name: 'Charlotte',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Charlotte.png',
+    elementType: 'Cryo',
+    link: 'https://genshin.gg/characters/charlotte/'
+  },
+  {
+    name: 'Chevreuse',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Chevreuse.png',
+    elementType: 'Pyro',
+    link: 'https://genshin.gg/characters/chevreuse/'
+  },
+  {
+    name: 'Chongyun',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Chongyun.png',
+    elementType: 'Cryo',
+    link: 'https://genshin.gg/characters/chongyun/'
+  },
+  {
+    name: 'Collei',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Collei.png',
+    elementType: 'Dendro',
+    link: 'https://genshin.gg/characters/collei/'
+  },
+  {
+    name: 'Diona',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Diona.png',
+    elementType: 'Cryo',
+    link: 'https://genshin.gg/characters/diona/'
+  },
+  {
+    name: 'Dori',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Dori.png',
+    elementType: 'Electro',
+    link: 'https://genshin.gg/characters/dori/'
+  },
+  {
+    name: 'Faruzan',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png',
+    elementType: 'Anemo',
+    link: 'https://genshin.gg/characters/faruzan/'
+  },
+  {
+    name: 'Fischl',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Fischl.png',
+    elementType: 'Electro',
+    link: 'https://genshin.gg/characters/fischl/'
+  },
+  {
+    name: 'Freminet',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Freminet.png',
+    elementType: 'Cryo',
+    link: 'https://genshin.gg/characters/freminet/'
+  },
+  {
+    name: 'Gaming',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Gaming.png',
+    elementType: 'Pyro',
+    link: 'https://genshin.gg/characters/gaming/'
+  },
+  {
+    name: 'Gorou',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Gorou.png',
+    elementType: 'Geo',
+    link: 'https://genshin.gg/characters/gorou/'
+  },
+  {
+    name: 'Heizou',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Heizou.png',
+    elementType: 'Anemo',
+    link: 'https://genshin.gg/characters/heizou/'
+  },
+  {
+    name: 'Kachina',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Kachina.png',
+    elementType: 'Geo',
+    link: 'https://genshin.gg/characters/kachina/'
+  },
+  {
+    name: 'Kaeya',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Kaeya.png',
+    elementType: 'Cryo',
+    link: 'https://genshin.gg/characters/kaeya/'
+  },
+  {
+    name: 'Kaveh',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Kaveh.png',
+    elementType: 'Dendro',
+    link: 'https://genshin.gg/characters/kaveh/'
+  },
+  {
+    name: 'Kirara',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Kirara.png',
+    elementType: 'Dendro',
+    link: 'https://genshin.gg/characters/kirara/'
+  },
+  {
+    name: 'Kuki Shinobu',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Kuki Shinobu.png',
+    elementType: 'Electro',
+    link: 'https://genshin.gg/characters/kukishinobu/'
+  },
+  {
+    name: 'Layla',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Layla.png',
+    elementType: 'Cryo',
+    link: 'https://genshin.gg/characters/layla/'
+  },
+  {
+    name: 'Lisa',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Lisa.png',
+    elementType: 'Electro',
+    link: 'https://genshin.gg/characters/lisa/'
+  },
+  {
+    name: 'Lynette',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Lynette.png',
+    elementType: 'Anemo',
+    link: 'https://genshin.gg/characters/lynette/'
+  },
+  {
+    name: 'Mika',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Mika.png',
+    elementType: 'Cryo',
+    link: 'https://genshin.gg/characters/mika/'
+  },
+  {
+    name: 'Ningguang',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Ningguang.png',
+    elementType: 'Geo',
+    link: 'https://genshin.gg/characters/ningguang/'
+  },
+  {
+    name: 'Noelle',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Noelle.png',
+    elementType: 'Geo',
+    link: 'https://genshin.gg/characters/noelle/'
+  },
+  {
+    name: 'Razor',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Razor.png',
+    elementType: 'Electro',
+    link: 'https://genshin.gg/characters/razor/'
+  },
+  {
+    name: 'Rosaria',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Rosaria.png',
+    elementType: 'Cryo',
+    link: 'https://genshin.gg/characters/rosaria/'
+  },
+  {
+    name: 'Sara',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Sara.png',
+    elementType: 'Electro',
+    link: 'https://genshin.gg/characters/sara/'
+  },
+  {
+    name: 'Sayu',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Sayu.png',
+    elementType: 'Anemo',
+    link: 'https://genshin.gg/characters/sayu/'
+  },
+  {
+    name: 'Sethos',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Sethos.png',
+    elementType: 'Electro',
+    link: 'https://genshin.gg/characters/sethos/'
+  },
+  {
+    name: 'Sucrose',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png',
+    elementType: 'Anemo',
+    link: 'https://genshin.gg/characters/sucrose/'
+  },
+  {
+    name: 'Thoma',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Thoma.png',
+    elementType: 'Pyro',
+    link: 'https://genshin.gg/characters/thoma/'
+  },
+  {
+    name: 'Xiangling',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Xiangling.png',
+    elementType: 'Pyro',
+    link: 'https://genshin.gg/characters/xiangling/'
+  },
+  {
+    name: 'Xingqiu',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Xingqiu.png',
+    elementType: 'Hydro',
+    link: 'https://genshin.gg/characters/xingqiu/'
+  },
+  {
+    name: 'Xinyan',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Xinyan.png',
+    elementType: 'Pyro',
+    link: 'https://genshin.gg/characters/xinyan/'
+  },
+  {
+    name: 'Yanfei',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Yanfei.png',
+    elementType: 'Pyro',
+    link: 'https://genshin.gg/characters/yanfei/'
+  },
+  {
+    name: 'Yaoyao',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Yaoyao.png',
+    elementType: 'Dendro',
+    link: 'https://genshin.gg/characters/yaoyao/'
+  },
+  {
+    name: 'Yun Jin',
+    imgSrc: 'https://rerollcdn.com/GENSHIN/Characters/1/Yun Jin.png',
+    elementType: 'Geo',
+    link: 'https://genshin.gg/characters/yunjin/'
+  }
+]
