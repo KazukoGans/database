@@ -1,0 +1,1106 @@
+[
+{
+  "character": {
+    "name": "Airi",
+    "baseStar": 2,
+    "rarity": "SR",
+    "armorType": "Light",
+    "bulletType": "Explosive",
+    "position": "Back",
+    "role": "Support",
+    "squadType": "Special",
+    "weaponType": "SMG",
+    "profile": "A cheerful member of the Trinity After-School Sweets Club.\n\nHas a relaxed and easy-going personality and cherishes the time she spends sampling desserts and chatting with her friends. Her favorite dessert is ice cream, and she's recently gotten hooked on mint chocolate chip."
+  },
+  "info": {
+    "age": "15 years old",
+    "birthDate": "January 30th",
+    "height": "160cm",
+    "artist": "まきあっと",
+    "club": "HoukagoDessert",
+    "school": "Trinity",
+    "schoolYear": "1st Year",
+    "voiceActor": "杉村ちか子"
+  },
+  "image": {
+    "icon": "https://api.ennead.cc/buruaka/image/icon/airi",
+    "lobby": "https://api.ennead.cc/buruaka/image/lobby/airi",
+    "portrait": "https://api.ennead.cc/buruaka/image/portrait/airi"
+  },
+  "stat": {
+    "id": 23000,
+    "attackLevel1": 167,
+    "attackLevel100": 1674,
+    "maxHPLevel1": 2256,
+    "maxHPLevel100": 16859,
+    "defenseLevel1": 20,
+    "defenseLevel100": 120,
+    "healPowerLevel1": 1605,
+    "healPowerLevel100": 4815,
+    "defPenetrateLevel1": 0,
+    "defPenetrateLevel100": 0,
+    "ammoCount": 4,
+    "ammoCost": 1,
+    "range": 1000,
+    "moveSpeed": 200,
+    "streetMood": "A",
+    "outdoorMood": "D",
+    "indoorMood": "A"
+  },
+  "terrain": {
+    "urban": {
+      "DamageDealt": "110%(1.1x)",
+      "ShieldBlockRate": "45%"
+    },
+    "outdoor": {
+      "DamageDealt": "80%(0.8x)",
+      "ShieldBlockRate": "0%"
+    },
+    "indoor": {
+      "DamageDealt": "110%(1.1x)",
+      "ShieldBlockRate": "45%"
+    }
+  },
+  "skills": {
+    "ex": [],
+    "normal": [],
+    "passive": [],
+    "sub": []
+  }
+},
+    {
+"character": {
+    "name": "Akane",
+    "baseStar": 2,
+    "rarity": "SR",
+    "armorType": "Light",
+    "bulletType": "Piercing",
+    "position": "Middle",
+    "role": "Support",
+    "squadType": "Striker",
+    "weaponType": "HG",
+    "profile": "An agent of C&C, a secret organization of the Millennium School. Akane operates under the call sign Zero-Three. She became known as the Master Cleaner for her modus operandi of infiltrating the enemy camp and clearing it out with explosives, all while wearing her signature gentle smile."
+  },
+  "info": {
+    "age": "16 years old",
+    "birthDate": "April 1st",
+    "height": "164cm",
+    "artist": "Mx2J",
+    "club": "CleanNClearing",
+    "school": "Millennium",
+    "schoolYear": "2nd Year",
+    "voiceActor": "原由実"
+  },
+  "image": {
+    "icon": "https://api.ennead.cc/buruaka/image/icon/akane",
+    "lobby": "https://api.ennead.cc/buruaka/image/lobby/akane",
+    "portrait": "https://api.ennead.cc/buruaka/image/portrait/akane"
+  },
+  "stat": {
+    "id": 13000,
+    "attackLevel1": 98,
+    "attackLevel100": 983,
+    "maxHPLevel1": 2208,
+    "maxHPLevel100": 25590,
+    "defenseLevel1": 19,
+    "defenseLevel100": 117,
+    "healPowerLevel1": 1425,
+    "healPowerLevel100": 4276,
+    "defPenetrateLevel1": 0,
+    "defPenetrateLevel100": 0,
+    "ammoCount": 6,
+    "ammoCost": 1,
+    "range": 550,
+    "moveSpeed": 200,
+    "streetMood": "A",
+    "outdoorMood": "A",
+    "indoorMood": "D"
+  },
+  "terrain": {
+    "urban": {
+      "DamageDealt": "110%(1.1x)",
+      "ShieldBlockRate": "45%"
+    },
+    "outdoor": {
+      "DamageDealt": "110%(1.1x)",
+      "ShieldBlockRate": "45%"
+    },
+    "indoor": {
+      "DamageDealt": "80%(0.8x)",
+      "ShieldBlockRate": "0%"
+    }
+  },
+  "skills": {
+    "ex": [],
+    "normal": [],
+    "passive": [],
+    "sub": []
+  }
+    },
+    {
+      "character": {
+    "name": "Akari",
+    "baseStar": 2,
+    "rarity": "SR",
+    "armorType": "Heavy",
+    "bulletType": "Explosive",
+    "position": "Middle",
+    "role": "Dealer",
+    "squadType": "Striker",
+    "weaponType": "AR",
+    "profile": "A member of the Gehenna Gourmet Research Society.\n\nDon't let her charming appearance fool you. A glutton with a massive appetite, she's the reigning champion of various competitive eating contests across Kivotos. She possesses a mild-mannered and kind personality, but she can prank as well as any other student at Gehenna Academy."
+  },
+  "info": {
+    "age": "17 years old",
+    "birthDate": "December 9th",
+    "height": "167cm",
+    "artist": "9ml",
+    "club": "GourmetClub",
+    "school": "Gehenna",
+    "schoolYear": "3rd Year",
+    "voiceActor": "森嶋優花"
+  },
+  "image": {
+    "icon": "https://api.ennead.cc/buruaka/image/icon/akari",
+    "lobby": "https://api.ennead.cc/buruaka/image/lobby/akari",
+    "portrait": "https://api.ennead.cc/buruaka/image/portrait/akari"
+  },
+  "stat": {
+    "id": 13002,
+    "attackLevel1": 275,
+    "attackLevel100": 2754,
+    "maxHPLevel1": 2252,
+    "maxHPLevel100": 22530,
+    "defenseLevel1": 20,
+    "defenseLevel100": 120,
+    "healPowerLevel1": 1397,
+    "healPowerLevel100": 4193,
+    "defPenetrateLevel1": 0,
+    "defPenetrateLevel100": 0,
+    "ammoCount": 15,
+    "ammoCost": 3,
+    "range": 650,
+    "moveSpeed": 200,
+    "streetMood": "A",
+    "outdoorMood": "B",
+    "indoorMood": "B"
+  },
+  "terrain": {
+    "urban": {
+      "DamageDealt": "110%(1.1x)",
+      "ShieldBlockRate": "45%"
+    },
+    "outdoor": {
+      "DamageDealt": "100%(1x)",
+      "ShieldBlockRate": "30%"
+    },
+    "indoor": {
+      "DamageDealt": "100%(1x)",
+      "ShieldBlockRate": "30%"
+    }
+  },
+  "skills": {
+    "ex": [],
+    "normal": [],
+    "passive": [],
+    "sub": []
+  }
+    },
+    {
+      "character": {
+    "name": "Ako",
+    "baseStar": 3,
+    "rarity": "SSR",
+    "armorType": "Heavy",
+    "bulletType": "Mystic",
+    "position": "Back",
+    "role": "Support",
+    "squadType": "Special",
+    "weaponType": "HG",
+    "profile": "Senior administrator of the Gehenna Prefect Team and secretary to the head prefect, Hina.\n\nAko is always by Hina's side, assisting her. At first glance, she appears to be kind and good-natured, but she ruthlessly suppresses rule-breakers, showing no mercy. The students of Gehenna often call her \"Hina's pet,\" but she doesn't seem to mind."
+  },
+  "info": {
+    "age": "17 years old",
+    "birthDate": "December 22nd",
+    "height": "165cm",
+    "artist": "DoReMi",
+    "club": "Fuuki",
+    "school": "Gehenna",
+    "schoolYear": "3rd Year",
+    "voiceActor": "高野麻里佳"
+  },
+  "image": {
+    "icon": "https://api.ennead.cc/buruaka/image/icon/ako",
+    "lobby": "https://api.ennead.cc/buruaka/image/lobby/ako",
+    "portrait": "https://api.ennead.cc/buruaka/image/portrait/ako"
+  },
+  "stat": {
+    "id": 20008,
+    "attackLevel1": 147,
+    "attackLevel100": 1477,
+    "maxHPLevel1": 2124,
+    "maxHPLevel100": 15882,
+    "defenseLevel1": 18,
+    "defenseLevel100": 113,
+    "healPowerLevel1": 1699,
+    "healPowerLevel100": 5097,
+    "defPenetrateLevel1": 0,
+    "defPenetrateLevel100": 0,
+    "ammoCount": 8,
+    "ammoCost": 1,
+    "range": 1000,
+    "moveSpeed": 200,
+    "streetMood": "D",
+    "outdoorMood": "B",
+    "indoorMood": "S"
+  },
+  "terrain": {
+    "urban": {
+      "DamageDealt": "80%(0.8x)",
+      "ShieldBlockRate": "0%"
+    },
+    "outdoor": {
+      "DamageDealt": "100%(1x)",
+      "ShieldBlockRate": "30%"
+    },
+    "indoor": {
+      "DamageDealt": "120%(1.2x)",
+      "ShieldBlockRate": "60%"
+    }
+  },
+  "skills": {
+    "ex": [],
+    "normal": [],
+    "passive": [],
+    "sub": []
+  }
+    },
+    {
+"character": {
+    "name": "Aru",
+    "baseStar": 3,
+    "rarity": "SSR",
+    "armorType": "Light",
+    "bulletType": "Explosive",
+    "position": "Back",
+    "role": "Dealer",
+    "squadType": "Striker",
+    "weaponType": "SR",
+    "profile": "The self-proclaimed boss of Problem Solver 68.\n\nAru expanded Gehenna Academy's Problem Solver 68 club without permission to conduct illegal business activities. She aspires to be seen as a dashing and debonair villain, but her frequent blunders always expose her as a poser."
+  },
+  "info": {
+    "age": "16 years old",
+    "birthDate": "March 12th",
+    "height": "160cm",
+    "artist": "DoReMi",
+    "club": "Kohshinjo68",
+    "school": "Gehenna",
+    "schoolYear": "2nd Year",
+    "voiceActor": "近藤玲奈"
+  },
+  "image": {
+    "icon": "https://api.ennead.cc/buruaka/image/icon/aru",
+    "lobby": "https://api.ennead.cc/buruaka/image/lobby/aru",
+    "portrait": "https://api.ennead.cc/buruaka/image/portrait/aru"
+  },
+  "stat": {
+    "id": 10000,
+    "attackLevel1": 369,
+    "attackLevel100": 3690,
+    "maxHPLevel1": 2236,
+    "maxHPLevel100": 19390,
+    "defenseLevel1": 19,
+    "defenseLevel100": 119,
+    "healPowerLevel1": 1408,
+    "healPowerLevel100": 4225,
+    "defPenetrateLevel1": 0,
+    "defPenetrateLevel100": 0,
+    "ammoCount": 5,
+    "ammoCost": 1,
+    "range": 750,
+    "moveSpeed": 200,
+    "streetMood": "S",
+    "outdoorMood": "B",
+    "indoorMood": "D"
+  },
+  "terrain": {
+    "urban": {
+      "DamageDealt": "120%(1.2x)",
+      "ShieldBlockRate": "60%"
+    },
+    "outdoor": {
+      "DamageDealt": "100%(1x)",
+      "ShieldBlockRate": "30%"
+    },
+    "indoor": {
+      "DamageDealt": "80%(0.8x)",
+      "ShieldBlockRate": "0%"
+    }
+  },
+  "skills": {
+    "ex": [],
+    "normal": [],
+    "passive": [],
+    "sub": []
+  }
+    },
+    {
+"character": {
+    "name": "Aru",
+    "baseStar": 3,
+    "rarity": "SSR",
+    "armorType": "Light",
+    "bulletType": "Explosive",
+    "position": "Back",
+    "role": "Dealer",
+    "squadType": "Striker",
+    "weaponType": "SR",
+    "profile": "The self-proclaimed boss of Problem Solver 68.\n\nAru expanded Gehenna Academy's Problem Solver 68 club without permission to conduct illegal business activities. She aspires to be seen as a dashing and debonair villain, but her frequent blunders always expose her as a poser."
+  },
+  "info": {
+    "age": "16 years old",
+    "birthDate": "March 12th",
+    "height": "160cm",
+    "artist": "DoReMi",
+    "club": "Kohshinjo68",
+    "school": "Gehenna",
+    "schoolYear": "2nd Year",
+    "voiceActor": "近藤玲奈"
+  },
+  "image": {
+    "icon": "https://api.ennead.cc/buruaka/image/icon/aru",
+    "lobby": "https://api.ennead.cc/buruaka/image/lobby/aru",
+    "portrait": "https://api.ennead.cc/buruaka/image/portrait/aru"
+  },
+  "stat": {
+    "id": 10000,
+    "attackLevel1": 369,
+    "attackLevel100": 3690,
+    "maxHPLevel1": 2236,
+    "maxHPLevel100": 19390,
+    "defenseLevel1": 19,
+    "defenseLevel100": 119,
+    "healPowerLevel1": 1408,
+    "healPowerLevel100": 4225,
+    "defPenetrateLevel1": 0,
+    "defPenetrateLevel100": 0,
+    "ammoCount": 5,
+    "ammoCost": 1,
+    "range": 750,
+    "moveSpeed": 200,
+    "streetMood": "S",
+    "outdoorMood": "B",
+    "indoorMood": "D"
+  },
+  "terrain": {
+    "urban": {
+      "DamageDealt": "120%(1.2x)",
+      "ShieldBlockRate": "60%"
+    },
+    "outdoor": {
+      "DamageDealt": "100%(1x)",
+      "ShieldBlockRate": "30%"
+    },
+    "indoor": {
+      "DamageDealt": "80%(0.8x)",
+      "ShieldBlockRate": "0%"
+    }
+  },
+  "skills": {
+    "ex": [],
+    "normal": [],
+    "passive": [],
+    "sub": []
+  }
+    },
+    {
+"character": {
+    "name": "Asuna",
+    "baseStar": 1,
+    "rarity": "R",
+    "armorType": "Light",
+    "bulletType": "Mystic",
+    "position": "Middle",
+    "role": "Dealer",
+    "squadType": "Striker",
+    "weaponType": "AR",
+    "profile": "An agent of C&C, a secret organization of the Millennium School.\n\nArmed with brutal instinct and intuition, Asuna is a seasoned veteran who has successfully overcome countless challenges under the call sign Zero-One. She is also something of a loose cannon, doing things such as revealing her identity on secret missions and smashing anything that looks suspicious without a second thought. However, she always manages to produce great results in the end."
+  },
+  "info": {
+    "age": "17 years old",
+    "birthDate": "March 24th",
+    "height": "167cm",
+    "artist": "Mx2J",
+    "club": "CleanNClearing",
+    "school": "Millennium",
+    "schoolYear": "3rd Year",
+    "voiceActor": "長谷川育美"
+  },
+  "image": {
+    "icon": "https://api.ennead.cc/buruaka/image/icon/asuna",
+    "lobby": "https://api.ennead.cc/buruaka/image/lobby/asuna",
+    "portrait": "https://api.ennead.cc/buruaka/image/portrait/asuna"
+  },
+  "stat": {
+    "id": 16001,
+    "attackLevel1": 266,
+    "attackLevel100": 2661,
+    "maxHPLevel1": 2309,
+    "maxHPLevel100": 23090,
+    "defenseLevel1": 20,
+    "defenseLevel100": 123,
+    "healPowerLevel1": 1362,
+    "healPowerLevel100": 4088,
+    "defPenetrateLevel1": 0,
+    "defPenetrateLevel100": 0,
+    "ammoCount": 15,
+    "ammoCost": 3,
+    "range": 650,
+    "moveSpeed": 200,
+    "streetMood": "B",
+    "outdoorMood": "B",
+    "indoorMood": "B"
+  },
+  "terrain": {
+    "urban": {
+      "DamageDealt": "100%(1x)",
+      "ShieldBlockRate": "30%"
+    },
+    "outdoor": {
+      "DamageDealt": "100%(1x)",
+      "ShieldBlockRate": "30%"
+    },
+    "indoor": {
+      "DamageDealt": "100%(1x)",
+      "ShieldBlockRate": "30%"
+    }
+  },
+  "skills": {
+    "ex": [],
+    "normal": [],
+    "passive": [],
+    "sub": []
+  }
+    },
+    {
+"character": {
+    "name": "Asuna",
+    "baseStar": 1,
+    "rarity": "R",
+    "armorType": "Light",
+    "bulletType": "Mystic",
+    "position": "Middle",
+    "role": "Dealer",
+    "squadType": "Striker",
+    "weaponType": "AR",
+    "profile": "An agent of C&C, a secret organization of the Millennium School.\n\nArmed with brutal instinct and intuition, Asuna is a seasoned veteran who has successfully overcome countless challenges under the call sign Zero-One. She is also something of a loose cannon, doing things such as revealing her identity on secret missions and smashing anything that looks suspicious without a second thought. However, she always manages to produce great results in the end."
+  },
+  "info": {
+    "age": "17 years old",
+    "birthDate": "March 24th",
+    "height": "167cm",
+    "artist": "Mx2J",
+    "club": "CleanNClearing",
+    "school": "Millennium",
+    "schoolYear": "3rd Year",
+    "voiceActor": "長谷川育美"
+  },
+  "image": {
+    "icon": "https://api.ennead.cc/buruaka/image/icon/asuna",
+    "lobby": "https://api.ennead.cc/buruaka/image/lobby/asuna",
+    "portrait": "https://api.ennead.cc/buruaka/image/portrait/asuna"
+  },
+  "stat": {
+    "id": 16001,
+    "attackLevel1": 266,
+    "attackLevel100": 2661,
+    "maxHPLevel1": 2309,
+    "maxHPLevel100": 23090,
+    "defenseLevel1": 20,
+    "defenseLevel100": 123,
+    "healPowerLevel1": 1362,
+    "healPowerLevel100": 4088,
+    "defPenetrateLevel1": 0,
+    "defPenetrateLevel100": 0,
+    "ammoCount": 15,
+    "ammoCost": 3,
+    "range": 650,
+    "moveSpeed": 200,
+    "streetMood": "B",
+    "outdoorMood": "B",
+    "indoorMood": "B"
+  },
+  "terrain": {
+    "urban": {
+      "DamageDealt": "100%(1x)",
+      "ShieldBlockRate": "30%"
+    },
+    "outdoor": {
+      "DamageDealt": "100%(1x)",
+      "ShieldBlockRate": "30%"
+    },
+    "indoor": {
+      "DamageDealt": "100%(1x)",
+      "ShieldBlockRate": "30%"
+    }
+  },
+  "skills": {
+    "ex": [],
+    "normal": [],
+    "passive": [],
+    "sub": []
+  }
+    },
+    {
+"character": {
+    "name": "Atsuko",
+    "baseStar": 3,
+    "rarity": "SSR",
+    "armorType": "Special",
+    "bulletType": "Explosive",
+    "position": "Front",
+    "role": "Tank",
+    "squadType": "Striker",
+    "weaponType": "SMG",
+    "profile": "A mysterious member of the Arius Squad who always wears a gas mask. Atsuko's mask isn't necessarily meant for disguise but rather a gas mask she wears for protection and safety. The squad leader, Saori, calls her Hime. Very little is known of who she is."
+  },
+  "info": {
+    "age": "15 years old",
+    "birthDate": "January 20th",
+    "height": "158cm",
+    "artist": "9ml",
+    "club": "AriusSqud",
+    "school": "Arius",
+    "schoolYear": "1st Year",
+    "voiceActor": "花澤香菜"
+  },
+  "image": {
+    "icon": "https://api.ennead.cc/buruaka/image/icon/atsuko",
+    "lobby": "https://api.ennead.cc/buruaka/image/lobby/atsuko",
+    "portrait": "https://api.ennead.cc/buruaka/image/portrait/atsuko"
+  },
+  "stat": {
+    "id": 10042,
+    "attackLevel1": 136,
+    "attackLevel100": 1368,
+    "maxHPLevel1": 2751,
+    "maxHPLevel100": 46000,
+    "defenseLevel1": 27,
+    "defenseLevel100": 165,
+    "healPowerLevel1": 1515,
+    "healPowerLevel100": 4546,
+    "defPenetrateLevel1": 0,
+    "defPenetrateLevel100": 0,
+    "ammoCount": 15,
+    "ammoCost": 3,
+    "range": 350,
+    "moveSpeed": 200,
+    "streetMood": "B",
+    "outdoorMood": "D",
+    "indoorMood": "S"
+  },
+  "terrain": {
+    "urban": {
+      "DamageDealt": "100%(1x)",
+      "ShieldBlockRate": "30%"
+    },
+    "outdoor": {
+      "DamageDealt": "80%(0.8x)",
+      "ShieldBlockRate": "0%"
+    },
+    "indoor": {
+      "DamageDealt": "120%(1.2x)",
+      "ShieldBlockRate": "60%"
+    }
+  },
+  "skills": {
+    "ex": [],
+    "normal": [],
+    "passive": [],
+    "sub": []
+  }
+    },
+    {
+"character": {
+    "name": "Ayane",
+    "baseStar": 2,
+    "rarity": "SR",
+    "armorType": "Light",
+    "bulletType": "Piercing",
+    "position": "Back",
+    "role": "Healer",
+    "squadType": "Special",
+    "weaponType": "HG",
+    "profile": "The diligent secretary of the Abydos Foreclosure Task Force.\n\nA hard-working stickler for rules and regulations, she does her best to contribute to the revitalization of Abydos High School."
+  },
+  "info": {
+    "age": "15 years old",
+    "birthDate": "November 12th",
+    "height": "153cm",
+    "artist": "Hwansang",
+    "club": "Countermeasure",
+    "school": "Abydos",
+    "schoolYear": "1st Year",
+    "voiceActor": "原田彩楓"
+  },
+  "image": {
+    "icon": "https://api.ennead.cc/buruaka/image/icon/ayane",
+    "lobby": "https://api.ennead.cc/buruaka/image/lobby/ayane",
+    "portrait": "https://api.ennead.cc/buruaka/image/portrait/ayane"
+  },
+  "stat": {
+    "id": 23005,
+    "attackLevel1": 120,
+    "attackLevel100": 1204,
+    "maxHPLevel1": 2562,
+    "maxHPLevel100": 19148,
+    "defenseLevel1": 25,
+    "defenseLevel100": 153,
+    "healPowerLevel1": 2354,
+    "healPowerLevel100": 7064,
+    "defPenetrateLevel1": 0,
+    "defPenetrateLevel100": 0,
+    "ammoCount": 8,
+    "ammoCost": 1,
+    "range": 1000,
+    "moveSpeed": 200,
+    "streetMood": "D",
+    "outdoorMood": "A",
+    "indoorMood": "A"
+  },
+  "terrain": {
+    "urban": {
+      "DamageDealt": "80%(0.8x)",
+      "ShieldBlockRate": "0%"
+    },
+    "outdoor": {
+      "DamageDealt": "110%(1.1x)",
+      "ShieldBlockRate": "45%"
+    },
+    "indoor": {
+      "DamageDealt": "110%(1.1x)",
+      "ShieldBlockRate": "45%"
+    }
+  },
+  "skills": {
+    "ex": [],
+    "normal": [],
+    "passive": [],
+    "sub": []
+  }
+    },
+    {
+"character": {
+    "name": "Azusa",
+    "baseStar": 3,
+    "rarity": "SSR",
+    "armorType": "Heavy",
+    "bulletType": "Explosive",
+    "position": "Middle",
+    "role": "Dealer",
+    "squadType": "Striker",
+    "weaponType": "AR",
+    "profile": "The ice queen of Trinity's Make-Up Work Club.\n\nAfter dropping out of school, she ended up at Trinity and is studying again. Despite being lonely, Azusa distances herself from others to avoid causing trouble—a source of concern for the other Make-Up Work Club members."
+  },
+  "info": {
+    "age": "16 years old",
+    "birthDate": "December 26th",
+    "height": "149cm",
+    "artist": "NAMYO",
+    "club": "RemedialClass",
+    "school": "Trinity",
+    "schoolYear": "2nd Year",
+    "voiceActor": "種田梨沙"
+  },
+  "image": {
+    "icon": "https://api.ennead.cc/buruaka/image/icon/azusa",
+    "lobby": "https://api.ennead.cc/buruaka/image/lobby/azusa",
+    "portrait": "https://api.ennead.cc/buruaka/image/portrait/azusa"
+  },
+  "stat": {
+    "id": 10019,
+    "attackLevel1": 189,
+    "attackLevel100": 1894,
+    "maxHPLevel1": 2228,
+    "maxHPLevel100": 22280,
+    "defenseLevel1": 19,
+    "defenseLevel100": 118,
+    "healPowerLevel1": 1413,
+    "healPowerLevel100": 4240,
+    "defPenetrateLevel1": 0,
+    "defPenetrateLevel100": 0,
+    "ammoCount": 15,
+    "ammoCost": 1,
+    "range": 650,
+    "moveSpeed": 200,
+    "streetMood": "B",
+    "outdoorMood": "D",
+    "indoorMood": "S"
+  },
+  "terrain": {
+    "urban": {
+      "DamageDealt": "100%(1x)",
+      "ShieldBlockRate": "30%"
+    },
+    "outdoor": {
+      "DamageDealt": "80%(0.8x)",
+      "ShieldBlockRate": "0%"
+    },
+    "indoor": {
+      "DamageDealt": "120%(1.2x)",
+      "ShieldBlockRate": "60%"
+    }
+  },
+  "skills": {
+    "ex": [],
+    "normal": [],
+    "passive": [],
+    "sub": []
+  }
+    },
+    {
+"character": {
+    "name": "Azusa (Swimsuit)",
+    "baseStar": 3,
+    "rarity": "SSR",
+    "armorType": "Light",
+    "bulletType": "Mystic",
+    "position": "Middle",
+    "role": "Dealer",
+    "squadType": "Striker",
+    "weaponType": "AR",
+    "profile": "The Make-Up Work Club's ice queen visits the beach for the first time.\n\nShe tries to keep cool and calm as usual to not cause trouble for others, but her friends want to make sure she enjoys her first beach trip. This causes her to worry about what others might think of her; but from their perspective, she's just the usual Azusa."
+  },
+  "info": {
+    "age": "16 years old",
+    "birthDate": "December 26th",
+    "height": "149cm",
+    "artist": "NAMYO",
+    "club": "RemedialClass",
+    "school": "Trinity",
+    "schoolYear": "2nd Year",
+    "voiceActor": "種田梨沙"
+  },
+  "image": {
+    "icon": "https://api.ennead.cc/buruaka/image/icon/azusa",
+    "lobby": "https://api.ennead.cc/buruaka/image/lobby/azusa",
+    "portrait": "https://api.ennead.cc/buruaka/image/portrait/azusa"
+  },
+  "stat": {
+    "id": 10021,
+    "attackLevel1": 211,
+    "attackLevel100": 2111,
+    "maxHPLevel1": 1967,
+    "maxHPLevel100": 19670,
+    "defenseLevel1": 17,
+    "defenseLevel100": 104,
+    "healPowerLevel1": 1575,
+    "healPowerLevel100": 4726,
+    "defPenetrateLevel1": 0,
+    "defPenetrateLevel100": 0,
+    "ammoCount": 15,
+    "ammoCost": 1,
+    "range": 650,
+    "moveSpeed": 200,
+    "streetMood": "C",
+    "outdoorMood": "C",
+    "indoorMood": "S"
+  },
+  "terrain": {
+    "urban": {
+      "DamageDealt": "90%(0.9x)",
+      "ShieldBlockRate": "15%"
+    },
+    "outdoor": {
+      "DamageDealt": "90%(0.9x)",
+      "ShieldBlockRate": "15%"
+    },
+    "indoor": {
+      "DamageDealt": "120%(1.2x)",
+      "ShieldBlockRate": "60%"
+    }
+  },
+  "skills": {
+    "ex": [],
+    "normal": [],
+    "passive": [],
+    "sub": []
+  }
+    },
+    {
+"character": {
+    "name": "Cherino",
+    "baseStar": 3,
+    "rarity": "SSR",
+    "armorType": "Light",
+    "bulletType": "Piercing",
+    "position": "Middle",
+    "role": "Dealer",
+    "squadType": "Striker",
+    "weaponType": "HG",
+    "profile": "Student council president of Red Winter Academy.\n\nGreedy and obsessed with power, she loses her position in a revolution once a week but somehow always regains her authority. Cherino believes her power comes from the fake mustache she wears as a symbol of authority."
+  },
+  "info": {
+    "age": "Age Unknown",
+    "birthDate": "October 27th",
+    "height": "128cm",
+    "artist": "Hwansang",
+    "club": "RedwinterSecretary",
+    "school": "RedWinter",
+    "schoolYear": "3rd Year",
+    "voiceActor": "丹下桜"
+  },
+  "image": {
+    "icon": "https://api.ennead.cc/buruaka/image/icon/cherino",
+    "lobby": "https://api.ennead.cc/buruaka/image/lobby/cherino",
+    "portrait": "https://api.ennead.cc/buruaka/image/portrait/cherino"
+  },
+  "stat": {
+    "id": 10017,
+    "attackLevel1": 172,
+    "attackLevel100": 1727,
+    "maxHPLevel1": 2211,
+    "maxHPLevel100": 25620,
+    "defenseLevel1": 19,
+    "defenseLevel100": 117,
+    "healPowerLevel1": 1423,
+    "healPowerLevel100": 4270,
+    "defPenetrateLevel1": 0,
+    "defPenetrateLevel100": 0,
+    "ammoCount": 6,
+    "ammoCost": 1,
+    "range": 550,
+    "moveSpeed": 200,
+    "streetMood": "B",
+    "outdoorMood": "S",
+    "indoorMood": "D"
+  },
+  "terrain": {
+    "urban": {
+      "DamageDealt": "100%(1x)",
+      "ShieldBlockRate": "30%"
+    },
+    "outdoor": {
+      "DamageDealt": "120%(1.2x)",
+      "ShieldBlockRate": "60%"
+    },
+    "indoor": {
+      "DamageDealt": "80%(0.8x)",
+      "ShieldBlockRate": "0%"
+    }
+  },
+  "skills": {
+    "ex": [],
+    "normal": [],
+    "passive": [],
+    "sub": []
+  }
+    },
+    {
+"character": {
+    "name": "Cherino (Hot Spring)",
+    "baseStar": 3,
+    "rarity": "SSR",
+    "armorType": "Heavy",
+    "bulletType": "Explosive",
+    "position": "Back",
+    "role": "T.S.",
+    "squadType": "Special",
+    "weaponType": "HG",
+    "profile": "The president of Red Winter Federal Academy who came to Hot Springs Resort No. 227 to enjoy a vacation.\n\nAt first, she was planning to demolish the resort that Spec Ops built without her permission, but satisfied with the hospitality of Nodoka and the Spec Ops students, she's decided to extend her stay indefinitely. She doesn't really enjoy getting into the hot springs despite how much she likes resting at the resort and eating its food."
+  },
+  "info": {
+    "age": "Age Unknown",
+    "birthDate": "October 27th",
+    "height": "128cm",
+    "artist": "kokosando",
+    "club": "RedwinterSecretary",
+    "school": "RedWinter",
+    "schoolYear": "3rd Year",
+    "voiceActor": "丹下桜"
+  },
+  "image": {
+    "icon": "https://api.ennead.cc/buruaka/image/icon/ch0164",
+    "lobby": "https://api.ennead.cc/buruaka/image/lobby/ch0164",
+    "portrait": "https://api.ennead.cc/buruaka/image/portrait/ch0164"
+  },
+  "stat": {
+    "id": 20009,
+    "attackLevel1": 199,
+    "attackLevel100": 1995,
+    "maxHPLevel1": 2226,
+    "maxHPLevel100": 16641,
+    "defenseLevel1": 19,
+    "defenseLevel100": 118,
+    "healPowerLevel1": 1626,
+    "healPowerLevel100": 4878,
+    "defPenetrateLevel1": 0,
+    "defPenetrateLevel100": 0,
+    "ammoCount": 6,
+    "ammoCost": 1,
+    "range": 1000,
+    "moveSpeed": 200,
+    "streetMood": "S",
+    "outdoorMood": "B",
+    "indoorMood": "D"
+  },
+  "terrain": {
+    "urban": {
+      "DamageDealt": "120%(1.2x)",
+      "ShieldBlockRate": "60%"
+    },
+    "outdoor": {
+      "DamageDealt": "100%(1x)",
+      "ShieldBlockRate": "30%"
+    },
+    "indoor": {
+      "DamageDealt": "80%(0.8x)",
+      "ShieldBlockRate": "0%"
+    }
+  },
+  "skills": {
+    "ex": [],
+    "normal": [],
+    "passive": [],
+    "sub": []
+  }
+    },
+    {
+"character": {
+    "name": "Chihiro",
+    "baseStar": 3,
+    "rarity": "SSR",
+    "armorType": "Heavy",
+    "bulletType": "Piercing",
+    "position": "Back",
+    "role": "Dealer",
+    "squadType": "Special",
+    "weaponType": "AR",
+    "profile": "Vice president of Veritas, Millennium Science School's hacker group.\n\nA genius programmer with excellent hacking skills, she is not afraid of getting her hands dirty when the task demands, whether it's going undercover or in the field. She actually has common sense unlike most of Veritas' devilish members. She is always emphasizing proper hacking ethics to other members."
+  },
+  "info": {
+    "age": "17 years old",
+    "birthDate": "April 26th",
+    "height": "160cm",
+    "artist": "ni02",
+    "club": "Veritas",
+    "school": "Millennium",
+    "schoolYear": "3rd Year",
+    "voiceActor": "山村響"
+  },
+  "image": {
+    "icon": "https://api.ennead.cc/buruaka/image/icon/ch0160",
+    "lobby": "https://api.ennead.cc/buruaka/image/lobby/ch0160",
+    "portrait": "https://api.ennead.cc/buruaka/image/portrait/ch0160"
+  },
+  "stat": {
+    "id": 20013,
+    "attackLevel1": 270,
+    "attackLevel100": 2701,
+    "maxHPLevel1": 2221,
+    "maxHPLevel100": 16595,
+    "defenseLevel1": 19,
+    "defenseLevel100": 118,
+    "healPowerLevel1": 1630,
+    "healPowerLevel100": 4891,
+    "defPenetrateLevel1": 0,
+    "defPenetrateLevel100": 0,
+    "ammoCount": 1,
+    "ammoCost": 1,
+    "range": 1000,
+    "moveSpeed": 200,
+    "streetMood": "S",
+    "outdoorMood": "D",
+    "indoorMood": "B"
+  },
+  "terrain": {
+    "urban": {
+      "DamageDealt": "120%(1.2x)",
+      "ShieldBlockRate": "60%"
+    },
+    "outdoor": {
+      "DamageDealt": "80%(0.8x)",
+      "ShieldBlockRate": "0%"
+    },
+    "indoor": {
+      "DamageDealt": "100%(1x)",
+      "ShieldBlockRate": "30%"
+    }
+  },
+  "skills": {
+    "ex": [],
+    "normal": [],
+    "passive": [],
+    "sub": []
+  }
+    },
+    {
+"character": {
+    "name": "Chise",
+    "baseStar": 2,
+    "rarity": "SR",
+    "armorType": "Heavy",
+    "bulletType": "Mystic",
+    "position": "Middle",
+    "role": "Dealer",
+    "squadType": "Striker",
+    "weaponType": "GL",
+    "profile": "A spacey girl who is a member of the Hyakkiyako Academy's Yin-Yang Club.\n\nExtremely fond of traditional activities such as writing haiku, which led her to join the Yin-Yang Club. Her exotic looks and presence have made her the envy of her peers at Hyakkiyako, but she seems completely oblivious to that fact."
+  },
+  "info": {
+    "age": "16 years old",
+    "birthDate": "July 13th",
+    "height": "159cm",
+    "artist": "Hwansang",
+    "club": "Onmyobu",
+    "school": "Hyakkiyako",
+    "schoolYear": "2nd Year",
+    "voiceActor": "嶋村侑"
+  },
+  "image": {
+    "icon": "https://api.ennead.cc/buruaka/image/icon/chise",
+    "lobby": "https://api.ennead.cc/buruaka/image/lobby/chise",
+    "portrait": "https://api.ennead.cc/buruaka/image/portrait/chise"
+  },
+  "stat": {
+    "id": 13001,
+    "attackLevel1": 222,
+    "attackLevel100": 2220,
+    "maxHPLevel1": 2256,
+    "maxHPLevel100": 22560,
+    "defenseLevel1": 20,
+    "defenseLevel100": 120,
+    "healPowerLevel1": 1396,
+    "healPowerLevel100": 4188,
+    "defPenetrateLevel1": 0,
+    "defPenetrateLevel100": 0,
+    "ammoCount": 6,
+    "ammoCost": 1,
+    "range": 650,
+    "moveSpeed": 200,
+    "streetMood": "A",
+    "outdoorMood": "D",
+    "indoorMood": "A"
+  },
+  "terrain": {
+    "urban": {
+      "DamageDealt": "110%(1.1x)",
+      "ShieldBlockRate": "45%"
+    },
+    "outdoor": {
+      "DamageDealt": "80%(0.8x)",
+      "ShieldBlockRate": "0%"
+    },
+    "indoor": {
+      "DamageDealt": "110%(1.1x)",
+      "ShieldBlockRate": "45%"
+    }
+  },
+  "skills": {
+    "ex": [],
+    "normal": [],
+    "passive": [],
+    "sub": []
+  }
+  }
+  ]
