@@ -1,0 +1,1762 @@
+[
+    {
+        "soal": "Apa output dari kode berikut?\n\n```js\nconst a = 'a';\nreturn typeof a;\n```",
+        "pilihan": [
+            "string",
+            "number",
+            "boolean",
+            "undefined"
+        ],
+        "jawaban": "string",
+        "deskripsi": "Variabel 'a' adalah string, sehingga 'typeof a' akan menghasilkan 'string'."
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log(typeof []);\n```",
+        "pilihan": [
+            "array",
+            "object",
+            "undefined",
+            "null"
+        ],
+        "jawaban": "object",
+        "deskripsi": "Di JavaScript, array adalah objek, sehingga 'typeof []' akan mengembalikan 'object'."
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```js\nfunction test() {\n  console.log(this);\n}\ntest();\n```",
+        "pilihan": [
+            "window (di browser) atau global (di Node.js)",
+            "undefined",
+            "null",
+            "function"
+        ],
+        "jawaban": "window (di browser) atau global (di Node.js)",
+        "deskripsi": "'this' dalam fungsi biasa di mode non-strict akan merujuk ke objek global (window di browser atau global di Node.js)."
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log(2 + '2' - 1);\n```",
+        "pilihan": [
+            "21",
+            "3",
+            "NaN",
+            "22"
+        ],
+        "jawaban": "21",
+        "deskripsi": "Operasi '2 + '2'' akan menghasilkan string '22', kemudian dikurangi 1 ('22' - 1) akan dikonversi ke angka, sehingga hasilnya 21."
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log([] == false);\n```",
+        "pilihan": [
+            "true",
+            "false",
+            "error",
+            "undefined"
+        ],
+        "jawaban": "true",
+        "deskripsi": "Dalam JavaScript, array kosong '[]' dikonversi ke string kosong '', yang kemudian dikonversi ke angka 0. Karena 'false' juga bernilai 0, perbandingan menjadi true."
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log(typeof null);\n```",
+        "pilihan": [
+            "null",
+            "object",
+            "undefined",
+            "boolean"
+        ],
+        "jawaban": "object",
+        "deskripsi": "Di JavaScript, 'typeof null' mengembalikan 'object' karena alasan historis.",
+        "bahasa": "Js"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a int = 10\n    var b int = 20\n    fmt.Println(a + b)\n}\n```",
+        "pilihan": [
+            "10",
+            "20",
+            "30",
+            "40"
+        ],
+        "jawaban": "30",
+        "deskripsi": "Kode ini menjumlahkan dua variabel integer a dan b, hasilnya adalah 30.",
+        "bahasa": "Golang"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```python\nprint(type(42))\n```",
+        "pilihan": [
+            "<class 'int'>",
+            "<class 'float'>",
+            "<class 'str'>",
+            "<class 'list'>"
+        ],
+        "jawaban": "<class 'int'>",
+        "deskripsi": "Di Python, angka 42 adalah integer, sehingga 'type(42)' mengembalikan '<class 'int'>'.",
+        "bahasa": "Python"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 5;\n    int b = 10;\n    printf(\"%d\", a + b);\n    return 0;\n}\n```",
+        "pilihan": [
+            "5",
+            "10",
+            "15",
+            "20"
+        ],
+        "jawaban": "15",
+        "deskripsi": "Kode ini menjumlahkan dua variabel integer a dan b, hasilnya adalah 15.",
+        "bahasa": "C"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log('5' - 3);\n```",
+        "pilihan": [
+            "2",
+            "8",
+            "NaN",
+            "53"
+        ],
+        "jawaban": "2",
+        "deskripsi": "Dalam JavaScript, '5' - 3 akan mengkonversi string '5' menjadi angka 5, sehingga hasilnya adalah 2.",
+        "bahasa": "Js"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a string = \"Hello\"\n    var b string = \"World\"\n    fmt.Println(a + \" \" + b)\n}\n```",
+        "pilihan": [
+            "HelloWorld",
+            "Hello World",
+            "Hello",
+            "World"
+        ],
+        "jawaban": "Hello World",
+        "deskripsi": "Kode ini menggabungkan dua string a dan b dengan spasi di antara mereka, hasilnya adalah 'Hello World'.",
+        "bahasa": "Golang"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```python\nprint(3 * '7')\n```",
+        "pilihan": [
+            "21",
+            "777",
+            "37",
+            "Error"
+        ],
+        "jawaban": "777",
+        "deskripsi": "Di Python, mengalikan string dengan angka akan mengulangi string tersebut, sehingga '3 * '7'' menghasilkan '777'.",
+        "bahasa": "Python"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 10;\n    int b = 3;\n    printf(\"%d\", a / b);\n    return 0;\n}\n```",
+        "pilihan": [
+            "3",
+            "3.3333",
+            "10",
+            "Error"
+        ],
+        "jawaban": "3",
+        "deskripsi": "Dalam C, pembagian dua integer menghasilkan integer, sehingga 10 / 3 adalah 3.",
+        "bahasa": "C"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log(typeof function(){});\n```",
+        "pilihan": [
+            "function",
+            "object",
+            "undefined",
+            "string"
+        ],
+        "jawaban": "function",
+        "deskripsi": "Di JavaScript, 'typeof function(){}' mengembalikan 'function'.",
+        "bahasa": "Js"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a float64 = 5.5\n    var b float64 = 2.2\n    fmt.Println(a * b)\n}\n```",
+        "pilihan": [
+            "7.7",
+            "12.1",
+            "11.0",
+            "Error"
+        ],
+        "jawaban": "12.1",
+        "deskripsi": "Kode ini mengalikan dua variabel float64 a dan b, hasilnya adalah 12.1.",
+        "bahasa": "Golang"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```python\nprint(len('Hello World'))\n```",
+        "pilihan": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "jawaban": "11",
+        "deskripsi": "Di Python, 'len' mengembalikan panjang string, sehingga 'len('Hello World')' adalah 11.",
+        "bahasa": "Python"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 10;\n    int b = 20;\n    printf(\"%d\", a * b);\n    return 0;\n}\n```",
+        "pilihan": [
+            "30",
+            "200",
+            "10",
+            "20"
+        ],
+        "jawaban": "200",
+        "deskripsi": "Kode ini mengalikan dua variabel integer a dan b, hasilnya adalah 200.",
+        "bahasa": "C"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log(0.1 + 0.2 === 0.3);\n```",
+        "pilihan": [
+            "true",
+            "false",
+            "undefined",
+            "NaN"
+        ],
+        "jawaban": "false",
+        "deskripsi": "Dalam JavaScript, 0.1 + 0.2 tidak persis sama dengan 0.3 karena masalah presisi floating-point.",
+        "bahasa": "Js"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a bool = true\n    var b bool = false\n    fmt.Println(a && b)\n}\n```",
+        "pilihan": [
+            "true",
+            "false",
+            "undefined",
+            "Error"
+        ],
+        "jawaban": "false",
+        "deskripsi": "Kode ini melakukan operasi logika AND pada dua variabel boolean a dan b, hasilnya adalah false.",
+        "bahasa": "Golang"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```python\nprint(2 ** 3)\n```",
+        "pilihan": [
+            "6",
+            "8",
+            "9",
+            "Error"
+        ],
+        "jawaban": "8",
+        "deskripsi": "Di Python, '**' adalah operator eksponensial, sehingga 2 ** 3 adalah 8.",
+        "bahasa": "Python"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 10;\n    int b = 3;\n    printf(\"%d\", a % b);\n    return 0;\n}\n```",
+        "pilihan": [
+            "1",
+            "2",
+            "3",
+            "Error"
+        ],
+        "jawaban": "1",
+        "deskripsi": "Dalam C, operator '%' adalah operator modulus, sehingga 10 % 3 adalah 1.",
+        "bahasa": "C"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log([1, 2, 3].length);\n```",
+        "pilihan": [
+            "2",
+            "3",
+            "4",
+            "undefined"
+        ],
+        "jawaban": "3",
+        "deskripsi": "Dalam JavaScript, properti 'length' dari array mengembalikan jumlah elemen dalam array, sehingga [1, 2, 3].length adalah 3.",
+        "bahasa": "Js"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a int = 10\n    var b int = 3\n    fmt.Println(a / b)\n}\n```",
+        "pilihan": [
+            "3",
+            "3.3333",
+            "10",
+            "Error"
+        ],
+        "jawaban": "3",
+        "deskripsi": "Dalam Go, pembagian dua integer menghasilkan integer, sehingga 10 / 3 adalah 3.",
+        "bahasa": "Golang"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```python\nprint('Hello' + ' ' + 'World')\n```",
+        "pilihan": [
+            "HelloWorld",
+            "Hello World",
+            "Hello",
+            "World"
+        ],
+        "jawaban": "Hello World",
+        "deskripsi": "Di Python, operator '+' menggabungkan string, sehingga 'Hello' + ' ' + 'World' adalah 'Hello World'.",
+        "bahasa": "Python"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 5;\n    int b = 2;\n    printf(\"%d\", a - b);\n    return 0;\n}\n```",
+        "pilihan": [
+            "3",
+            "7",
+            "5",
+            "2"
+        ],
+        "jawaban": "3",
+        "deskripsi": "Kode ini mengurangi variabel integer b dari a, hasilnya adalah 3.",
+        "bahasa": "C"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log('Hello'.toUpperCase());\n```",
+        "pilihan": [
+            "HELLO",
+            "hello",
+            "Hello",
+            "Error"
+        ],
+        "jawaban": "HELLO",
+        "deskripsi": "Dalam JavaScript, metode 'toUpperCase' mengubah semua huruf dalam string menjadi huruf besar, sehingga 'Hello'.toUpperCase() adalah 'HELLO'.",
+        "bahasa": "Js"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a int = 10\n    var b int = 20\n    fmt.Println(a > b)\n}\n```",
+        "pilihan": [
+            "true",
+            "false",
+            "undefined",
+            "Error"
+        ],
+        "jawaban": "false",
+        "deskripsi": "Kode ini membandingkan dua variabel integer a dan b, hasilnya adalah false karena 10 tidak lebih besar dari 20.",
+        "bahasa": "Golang"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```python\nprint(10 // 3)\n```",
+        "pilihan": [
+            "3",
+            "3.3333",
+            "10",
+            "Error"
+        ],
+        "jawaban": "3",
+        "deskripsi": "Di Python, operator '//' adalah operator pembagian integer, sehingga 10 // 3 adalah 3.",
+        "bahasa": "Python"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 10;\n    int b = 20;\n    printf(\"%d\", a + b);\n    return 0;\n}\n```",
+        "pilihan": [
+            "10",
+            "20",
+            "30",
+            "40"
+        ],
+        "jawaban": "30",
+        "deskripsi": "Kode ini menjumlahkan dua variabel integer a dan b, hasilnya adalah 30.",
+        "bahasa": "C"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log([1, 2, 3].indexOf(2));\n```",
+        "pilihan": [
+            "0",
+            "1",
+            "2",
+            "undefined"
+        ],
+        "jawaban": "1",
+        "deskripsi": "Dalam JavaScript, metode 'indexOf' mengembalikan indeks pertama dari elemen yang ditemukan dalam array, sehingga [1, 2, 3].indexOf(2) adalah 1.",
+        "bahasa": "Js"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a int = 10\n    var b int = 20\n    fmt.Println(a < b)\n}\n```",
+        "pilihan": [
+            "true",
+            "false",
+            "undefined",
+            "Error"
+        ],
+        "jawaban": "true",
+        "deskripsi": "Kode ini membandingkan dua variabel integer a dan b, hasilnya adalah true karena 10 lebih kecil dari 20.",
+        "bahasa": "Golang"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```python\nprint('Hello'.lower())\n```",
+        "pilihan": [
+            "hello",
+            "HELLO",
+            "Hello",
+            "Error"
+        ],
+        "jawaban": "hello",
+        "deskripsi": "Di Python, metode 'lower' mengubah semua huruf dalam string menjadi huruf kecil, sehingga 'Hello'.lower() adalah 'hello'.",
+        "bahasa": "Python"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 10;\n    int b = 20;\n    printf(\"%d\", a - b);\n    return 0;\n}\n```",
+        "pilihan": [
+            "-10",
+            "10",
+            "30",
+            "40"
+        ],
+        "jawaban": "-10",
+        "deskripsi": "Kode ini mengurangi variabel integer b dari a, hasilnya adalah -10.",
+        "bahasa": "C"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log('Hello'.length);\n```",
+        "pilihan": [
+            "4",
+            "5",
+            "6",
+            "undefined"
+        ],
+        "jawaban": "5",
+        "deskripsi": "Dalam JavaScript, properti 'length' dari string mengembalikan jumlah karakter dalam string, sehingga 'Hello'.length adalah 5.",
+        "bahasa": "Js"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a int = 10\n    var b int = 20\n    fmt.Println(a == b)\n}\n```",
+        "pilihan": [
+            "true",
+            "false",
+            "undefined",
+            "Error"
+        ],
+        "jawaban": "false",
+        "deskripsi": "Kode ini membandingkan dua variabel integer a dan b, hasilnya adalah false karena 10 tidak sama dengan 20.",
+        "bahasa": "Golang"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```python\nprint('Hello'.upper())\n```",
+        "pilihan": [
+            "HELLO",
+            "hello",
+            "Hello",
+            "Error"
+        ],
+        "jawaban": "HELLO",
+        "deskripsi": "Di Python, metode 'upper' mengubah semua huruf dalam string menjadi huruf besar, sehingga 'Hello'.upper() adalah 'HELLO'.",
+        "bahasa": "Python"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 10;\n    int b = 20;\n    printf(\"%d\", a * b);\n    return 0;\n}\n```",
+        "pilihan": [
+            "30",
+            "200",
+            "10",
+            "20"
+        ],
+        "jawaban": "200",
+        "deskripsi": "Kode ini mengalikan dua variabel integer a dan b, hasilnya adalah 200.",
+        "bahasa": "C"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log([1, 2, 3].includes(2));\n```",
+        "pilihan": [
+            "true",
+            "false",
+            "undefined",
+            "Error"
+        ],
+        "jawaban": "true",
+        "deskripsi": "Dalam JavaScript, metode 'includes' memeriksa apakah array berisi elemen tertentu, sehingga [1, 2, 3].includes(2) adalah true.",
+        "bahasa": "Js"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a int = 10\n    var b int = 20\n    fmt.Println(a != b)\n}\n```",
+        "pilihan": [
+            "true",
+            "false",
+            "undefined",
+            "Error"
+        ],
+        "jawaban": "true",
+        "deskripsi": "Kode ini membandingkan dua variabel integer a dan b, hasilnya adalah true karena 10 tidak sama dengan 20.",
+        "bahasa": "Golang"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```python\nprint('Hello World'.split())\n```",
+        "pilihan": [
+            [
+                "Hello",
+                "World"
+            ],
+            [
+                "HelloWorld"
+            ],
+            [
+                "Hello",
+                " World"
+            ],
+            [
+                "Error"
+            ]
+        ],
+        "jawaban": [
+            "Hello",
+            "World"
+        ],
+        "deskripsi": "Di Python, metode 'split' memisahkan string menjadi daftar berdasarkan spasi, sehingga 'Hello World'.split() adalah ['Hello', 'World'].",
+        "bahasa": "Python"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 10;\n    int b = 20;\n    printf(\"%d\", a / b);\n    return 0;\n}\n```",
+        "pilihan": [
+            "0",
+            "0.5",
+            "10",
+            "20"
+        ],
+        "jawaban": "0",
+        "deskripsi": "Dalam C, pembagian dua integer menghasilkan integer, sehingga 10 / 20 adalah 0.",
+        "bahasa": "C"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log(typeof NaN);\n```",
+        "pilihan": [
+            "number",
+            "NaN",
+            "undefined",
+            "object"
+        ],
+        "jawaban": "number",
+        "deskripsi": "Di JavaScript, 'typeof NaN' mengembalikan 'number' karena NaN adalah nilai numerik.",
+        "bahasa": "Js"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a int = 5\n    var b int = 2\n    fmt.Println(a % b)\n}\n```",
+        "pilihan": [
+            "1",
+            "2",
+            "3",
+            "Error"
+        ],
+        "jawaban": "1",
+        "deskripsi": "Kode ini menghitung sisa pembagian dua variabel integer a dan b, hasilnya adalah 1.",
+        "bahasa": "Golang"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```python\nprint('Hello' * 3)\n```",
+        "pilihan": [
+            "HelloHelloHello",
+            "Hello3",
+            "Hello",
+            "Error"
+        ],
+        "jawaban": "HelloHelloHello",
+        "deskripsi": "Di Python, mengalikan string dengan angka akan mengulangi string tersebut, sehingga 'Hello' * 3 menghasilkan 'HelloHelloHello'.",
+        "bahasa": "Python"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 10;\n    int b = 3;\n    printf(\"%d\", a % b);\n    return 0;\n}\n```",
+        "pilihan": [
+            "1",
+            "2",
+            "3",
+            "Error"
+        ],
+        "jawaban": "1",
+        "deskripsi": "Dalam C, operator '%' adalah operator modulus, sehingga 10 % 3 adalah 1.",
+        "bahasa": "C"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log('5' + 3);\n```",
+        "pilihan": [
+            "53",
+            "8",
+            "NaN",
+            "Error"
+        ],
+        "jawaban": "53",
+        "deskripsi": "Dalam JavaScript, '5' + 3 akan mengkonversi angka 3 menjadi string dan menggabungkannya, sehingga hasilnya adalah '53'.",
+        "bahasa": "Js"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a bool = true\n    var b bool = false\n    fmt.Println(a || b)\n}\n```",
+        "pilihan": [
+            "true",
+            "false",
+            "undefined",
+            "Error"
+        ],
+        "jawaban": "true",
+        "deskripsi": "Kode ini melakukan operasi logika OR pada dua variabel boolean a dan b, hasilnya adalah true.",
+        "bahasa": "Golang"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```python\nprint(10 % 3)\n```",
+        "pilihan": [
+            "1",
+            "2",
+            "3",
+            "Error"
+        ],
+        "jawaban": "1",
+        "deskripsi": "Di Python, operator '%' adalah operator modulus, sehingga 10 % 3 adalah 1.",
+        "bahasa": "Python"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 10;\n    int b = 3;\n    printf(\"%d\", a / b);\n    return 0;\n}\n```",
+        "pilihan": [
+            "3",
+            "3.3333",
+            "10",
+            "Error"
+        ],
+        "jawaban": "3",
+        "deskripsi": "Dalam C, pembagian dua integer menghasilkan integer, sehingga 10 / 3 adalah 3.",
+        "bahasa": "C"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log([1, 2, 3].pop());\n```",
+        "pilihan": [
+            "1",
+            "2",
+            "3",
+            "undefined"
+        ],
+        "jawaban": "3",
+        "deskripsi": "Dalam JavaScript, metode 'pop' menghapus elemen terakhir dari array dan mengembalikannya, sehingga [1, 2, 3].pop() adalah 3.",
+        "bahasa": "Js"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a int = 10\n    var b int = 20\n    fmt.Println(a <= b)\n}\n```",
+        "pilihan": [
+            "true",
+            "false",
+            "undefined",
+            "Error"
+        ],
+        "jawaban": "true",
+        "deskripsi": "Kode ini membandingkan dua variabel integer a dan b, hasilnya adalah true karena 10 lebih kecil atau sama dengan 20.",
+        "bahasa": "Golang"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```python\nprint('Hello'.find('e'))\n```",
+        "pilihan": [
+            "0",
+            "1",
+            "2",
+            "Error"
+        ],
+        "jawaban": "1",
+        "deskripsi": "Di Python, metode 'find' mengembalikan indeks pertama dari substring yang ditemukan dalam string, sehingga 'Hello'.find('e') adalah 1.",
+        "bahasa": "Python"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 10;\n    int b = 20;\n    printf(\"%d\", a - b);\n    return 0;\n}\n```",
+        "pilihan": [
+            "-10",
+            "10",
+            "30",
+            "40"
+        ],
+        "jawaban": "-10",
+        "deskripsi": "Kode ini mengurangi variabel integer b dari a, hasilnya adalah -10.",
+        "bahasa": "C"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log('Hello'.charAt(1));\n```",
+        "pilihan": [
+            "H",
+            "e",
+            "l",
+            "Error"
+        ],
+        "jawaban": "e",
+        "deskripsi": "Dalam JavaScript, metode 'charAt' mengembalikan karakter pada indeks tertentu dalam string, sehingga 'Hello'.charAt(1) adalah 'e'.",
+        "bahasa": "Js"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a int = 10\n    var b int = 20\n    fmt.Println(a >= b)\n}\n```",
+        "pilihan": [
+            "true",
+            "false",
+            "undefined",
+            "Error"
+        ],
+        "jawaban": "false",
+        "deskripsi": "Kode ini membandingkan dua variabel integer a dan b, hasilnya adalah false karena 10 tidak lebih besar atau sama dengan 20.",
+        "bahasa": "Golang"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```python\nprint('Hello World'.replace('World', 'Python'))\n```",
+        "pilihan": [
+            "Hello Python",
+            "Hello World",
+            "Python World",
+            "Error"
+        ],
+        "jawaban": "Hello Python",
+        "deskripsi": "Di Python, metode 'replace' menggantikan substring dalam string dengan substring lain, sehingga 'Hello World'.replace('World', 'Python') adalah 'Hello Python'.",
+        "bahasa": "Python"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 10;\n    int b = 20;\n    printf(\"%d\", a + b);\n    return 0;\n}\n```",
+        "pilihan": [
+            "10",
+            "20",
+            "30",
+            "40"
+        ],
+        "jawaban": "30",
+        "deskripsi": "Kode ini menjumlahkan dua variabel integer a dan b, hasilnya adalah 30.",
+        "bahasa": "C"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log([1, 2, 3].shift());\n```",
+        "pilihan": [
+            "1",
+            "2",
+            "3",
+            "undefined"
+        ],
+        "jawaban": "1",
+        "deskripsi": "Dalam JavaScript, metode 'shift' menghapus elemen pertama dari array dan mengembalikannya, sehingga [1, 2, 3].shift() adalah 1.",
+        "bahasa": "Js"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a int = 10\n    var b int = 20\n    fmt.Println(a == b)\n}\n```",
+        "pilihan": [
+            "true",
+            "false",
+            "undefined",
+            "Error"
+        ],
+        "jawaban": "false",
+        "deskripsi": "Kode ini membandingkan dua variabel integer a dan b, hasilnya adalah false karena 10 tidak sama dengan 20.",
+        "bahasa": "Golang"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```python\nprint('Hello'.startswith('H'))\n```",
+        "pilihan": [
+            "True",
+            "False",
+            "Error",
+            "None"
+        ],
+        "jawaban": "True",
+        "deskripsi": "Di Python, metode 'startswith' memeriksa apakah string dimulai dengan substring tertentu, sehingga 'Hello'.startswith('H') adalah True.",
+        "bahasa": "Python"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 10;\n    int b = 20;\n    printf(\"%d\", a * b);\n    return 0;\n}\n```",
+        "pilihan": [
+            "30",
+            "200",
+            "10",
+            "20"
+        ],
+        "jawaban": "200",
+        "deskripsi": "Kode ini mengalikan dua variabel integer a dan b, hasilnya adalah 200.",
+        "bahasa": "C"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log([1, 2, 3].unshift(0));\n```",
+        "pilihan": [
+            "0",
+            "1",
+            "2",
+            "4"
+        ],
+        "jawaban": "4",
+        "deskripsi": "Dalam JavaScript, metode 'unshift' menambahkan elemen ke awal array dan mengembalikan panjang baru array, sehingga [1, 2, 3].unshift(0) adalah 4.",
+        "bahasa": "Js"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```go\npackage main\nimport \"fmt\"\nfunc main() {\n    var a int = 10\n    var b int = 20\n    fmt.Println(a != b)\n}\n```",
+        "pilihan": [
+            "true",
+            "false",
+            "undefined",
+            "Error"
+        ],
+        "jawaban": "true",
+        "deskripsi": "Kode ini membandingkan dua variabel integer a dan b, hasilnya adalah true karena 10 tidak sama dengan 20.",
+        "bahasa": "Golang"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```python\nprint('Hello'.endswith('o'))\n```",
+        "pilihan": [
+            "True",
+            "False",
+            "Error",
+            "None"
+        ],
+        "jawaban": "True",
+        "deskripsi": "Di Python, metode 'endswith' memeriksa apakah string diakhiri dengan substring tertentu, sehingga 'Hello'.endswith('o') adalah True.",
+        "bahasa": "Python"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```c\n#include <stdio.h>\nint main() {\n    int a = 10;\n    int b = 20;\n    printf(\"%d\", a / b);\n    return 0;\n}\n```",
+        "pilihan": [
+            "0",
+            "0.5",
+            "10",
+            "20"
+        ],
+        "jawaban": "0",
+        "deskripsi": "Dalam C, pembagian dua integer menghasilkan integer, sehingga 10 / 20 adalah 0.",
+        "bahasa": "C"
+    },
+    {
+        "soal": "Apa output dari kode berikut?\n\n```js\nconsole.log([1, 2, 3].reverse());\n```",
+        "pilihan": [
+            "[1, 2, 3]",
+            "[3, 2, 1]",
+            "[2, 1, 3]",
+            "Error"
+        ],
+        "jawaban": "[3, 2, 1]",
+        "deskripsi": "Dalam JavaScript, metode 'reverse' membalik urutan elemen dalam array, sehingga [1, 2, 3].reverse() adalah [3, 2, 1].",
+        "bahasa": "Js"
+    },
+    {
+        "soal": "Apa hasil dari query: SELECT COUNT(*) FROM users WHERE age > 30;",
+        "pilihan": [
+            "Jumlah total baris di tabel",
+            "Jumlah user dengan usia lebih dari 30",
+            "Nama semua user",
+            "Error"
+        ],
+        "jawaban": "Jumlah user dengan usia lebih dari 30",
+        "deskripsi": "Query ini menghitung jumlah baris (COUNT) dari tabel users dengan kondisi age > 30.",
+        "bahasa": "SQL"
+    },
+    {
+        "soal": "Apa fungsi dari klausa GROUP BY dalam SQL?",
+        "pilihan": [
+            "Menghapus baris",
+            "Mengelompokkan hasil berdasarkan kolom",
+            "Mengurutkan data",
+            "Menambah data"
+        ],
+        "jawaban": "Mengelompokkan hasil berdasarkan kolom",
+        "deskripsi": "GROUP BY digunakan untuk mengelompokkan hasil berdasarkan nilai kolom tertentu.",
+        "bahasa": "SQL"
+    },
+    {
+        "soal": "Apa arti dari query: SELECT * FROM orders LIMIT 5;",
+        "pilihan": [
+            "Menghapus 5 data",
+            "Mengambil semua data",
+            "Mengambil 5 data pertama",
+            "Error"
+        ],
+        "jawaban": "Mengambil 5 data pertama",
+        "deskripsi": "LIMIT digunakan untuk membatasi jumlah baris hasil query.",
+        "bahasa": "SQL"
+    },
+    {
+        "soal": "Fungsi dari JOIN dalam SQL adalah?",
+        "pilihan": [
+            "Mengurutkan data",
+            "Menggabungkan dua tabel",
+            "Menghapus tabel",
+            "Menyimpan data"
+        ],
+        "jawaban": "Menggabungkan dua tabel",
+        "deskripsi": "JOIN digunakan untuk menggabungkan data dari dua atau lebih tabel berdasarkan kolom yang terkait.",
+        "bahasa": "SQL"
+    },
+    {
+        "soal": "Apa arti dari: SELECT MAX(salary) FROM employees;",
+        "pilihan": [
+            "Jumlah gaji tertinggi",
+            "Gaji terendah",
+            "Semua gaji",
+            "Nama pegawai"
+        ],
+        "jawaban": "Jumlah gaji tertinggi",
+        "deskripsi": "MAX digunakan untuk mengambil nilai maksimum dari kolom, dalam hal ini salary.",
+        "bahasa": "SQL"
+    },
+    {
+        "soal": "Apa hasil dari: SELECT name FROM products WHERE price IS NULL;",
+        "pilihan": [
+            "Produk dengan harga 0",
+            "Produk tanpa harga",
+            "Semua produk",
+            "Error"
+        ],
+        "jawaban": "Produk tanpa harga",
+        "deskripsi": "Kondisi IS NULL digunakan untuk memeriksa kolom yang tidak memiliki nilai.",
+        "bahasa": "SQL"
+    },
+    {
+        "soal": "Apa arti klausa ORDER BY dalam SQL?",
+        "pilihan": [
+            "Menentukan jumlah data",
+            "Mengurutkan hasil",
+            "Menghapus data",
+            "Menambah data"
+        ],
+        "jawaban": "Mengurutkan hasil",
+        "deskripsi": "ORDER BY digunakan untuk mengurutkan hasil query berdasarkan satu atau lebih kolom.",
+        "bahasa": "SQL"
+    },
+    {
+        "soal": "Apa yang dilakukan query: DELETE FROM customers WHERE id = 10;",
+        "pilihan": [
+            "Menghapus semua pelanggan",
+            "Menghapus pelanggan dengan id 10",
+            "Menampilkan pelanggan",
+            "Error"
+        ],
+        "jawaban": "Menghapus pelanggan dengan id 10",
+        "deskripsi": "DELETE digunakan untuk menghapus baris dari tabel berdasarkan kondisi tertentu.",
+        "bahasa": "SQL"
+    },
+    {
+        "soal": "Fungsi dari keyword DISTINCT dalam SQL?",
+        "pilihan": [
+            "Menghapus data duplikat",
+            "Mengurutkan data",
+            "Menggabungkan tabel",
+            "Menambah data"
+        ],
+        "jawaban": "Menghapus data duplikat",
+        "deskripsi": "DISTINCT digunakan untuk menghapus duplikat dari hasil query.",
+        "bahasa": "SQL"
+    },
+    {
+        "soal": "Apa arti dari: SELECT AVG(score) FROM tests;",
+        "pilihan": [
+            "Nilai rata-rata skor",
+            "Nilai tertinggi",
+            "Semua skor",
+            "Error"
+        ],
+        "jawaban": "Nilai rata-rata skor",
+        "deskripsi": "AVG adalah fungsi agregat yang menghitung rata-rata nilai dari kolom numerik.",
+        "bahasa": "SQL"
+    },
+    {
+        "soal": "Apa arti dari klausa HAVING dalam SQL?",
+        "pilihan": [
+            "Digunakan setelah WHERE",
+            "Digunakan untuk filter hasil agregat",
+            "Untuk mengurutkan data",
+            "Untuk menambah data"
+        ],
+        "jawaban": "Digunakan untuk filter hasil agregat",
+        "deskripsi": "HAVING digunakan bersama GROUP BY untuk menyaring hasil setelah agregasi.",
+        "bahasa": "SQL"
+    },
+    {
+        "soal": "Apa hasil dari query: SELECT * FROM users WHERE name LIKE 'A%';",
+        "pilihan": [
+            "Nama yang mengandung A",
+            "Nama yang dimulai dengan A",
+            "Nama yang berakhiran A",
+            "Semua nama"
+        ],
+        "jawaban": "Nama yang dimulai dengan A",
+        "deskripsi": "LIKE dengan 'A%' mencari data yang dimulai dengan huruf A.",
+        "bahasa": "SQL"
+    },
+    {
+        "soal": "Apa hasil dari: SELECT NOW();",
+        "pilihan": [
+            "Menampilkan waktu saat ini",
+            "Menghapus waktu",
+            "Mengubah tanggal",
+            "Error"
+        ],
+        "jawaban": "Menampilkan waktu saat ini",
+        "deskripsi": "NOW() adalah fungsi bawaan SQL yang mengembalikan waktu saat ini.",
+        "bahasa": "SQL"
+    },
+    {
+        "soal": "Query untuk menambah data ke tabel products?",
+        "pilihan": [
+            "ADD INTO",
+            "UPDATE",
+            "INSERT INTO",
+            "JOIN INTO"
+        ],
+        "jawaban": "INSERT INTO",
+        "deskripsi": "INSERT INTO digunakan untuk menambahkan data baru ke tabel.",
+        "bahasa": "SQL"
+    },
+    {
+        "soal": "Fungsi dari klausa WHERE dalam SQL?",
+        "pilihan": [
+            "Menggabungkan data",
+            "Memfilter data",
+            "Menambah data",
+            "Mengurutkan data"
+        ],
+        "jawaban": "Memfilter data",
+        "deskripsi": "WHERE digunakan untuk menyaring baris yang sesuai dengan kondisi tertentu.",
+        "bahasa": "SQL"
+    },
+    {
+        "soal": "Apa hasil dari: SELECT LENGTH('SQL');",
+        "pilihan": [
+            "Error",
+            "3",
+            "2",
+            "4"
+        ],
+        "jawaban": "3",
+        "deskripsi": "LENGTH() mengembalikan panjang string, dalam hal ini 'SQL' memiliki 3 karakter.",
+        "bahasa": "SQL"
+    },
+    {
+        "soal": "Apa maksud dari: SELECT * FROM users WHERE id IN (1, 3, 5);",
+        "pilihan": [
+            "Memilih user dengan id 1, 3, atau 5",
+            "Memilih semua user",
+            "Menghapus user",
+            "Error"
+        ],
+        "jawaban": "Memilih user dengan id 1, 3, atau 5",
+        "deskripsi": "IN digunakan untuk mencocokkan nilai terhadap daftar nilai tertentu.",
+        "bahasa": "SQL"
+    },
+    {
+        "soal": "Bagaimana cara mengubah nama kolom di SQL?",
+        "pilihan": [
+            "ALTER TABLE",
+            "UPDATE COLUMN",
+            "CHANGE NAME",
+            "SET COLUMN"
+        ],
+        "jawaban": "ALTER TABLE",
+        "deskripsi": "ALTER TABLE digunakan untuk mengubah struktur tabel, termasuk nama kolom.",
+        "bahasa": "SQL"
+    },
+    {
+        "soal": "Apa fungsi dari UNION dalam SQL?",
+        "pilihan": [
+            "Menggabungkan hasil dua query",
+            "Menghapus data",
+            "Mengurutkan hasil",
+            "Menambah kolom"
+        ],
+        "jawaban": "Menggabungkan hasil dua query",
+        "deskripsi": "UNION digunakan untuk menggabungkan hasil dari dua query SELECT dengan struktur yang sama.",
+        "bahasa": "SQL"
+    },
+    {
+        "soal": "Apa hasil dari: SELECT ROUND(10.678, 1);",
+        "pilihan": [
+            "10.7",
+            "10.6",
+            "10.67",
+            "11"
+        ],
+        "jawaban": "10.7",
+        "deskripsi": "ROUND digunakan untuk membulatkan angka ke jumlah desimal tertentu, dalam hal ini 1 angka desimal.",
+        "bahasa": "SQL"
+    },
+    {
+        "soal": "Apa hasil dari kode: writeln(5 + 3 * 2);",
+        "pilihan": [
+            "16",
+            "11",
+            "10",
+            "21"
+        ],
+        "jawaban": "11",
+        "deskripsi": "Operator * memiliki prioritas lebih tinggi dari +, jadi 3*2 dihitung terlebih dahulu, lalu ditambah 5.",
+        "bahasa": "Pascal"
+    },
+    {
+        "soal": "Tipe data untuk menyimpan nilai pecahan di Pascal?",
+        "pilihan": [
+            "integer",
+            "real",
+            "char",
+            "boolean"
+        ],
+        "jawaban": "real",
+        "deskripsi": "Tipe data 'real' digunakan untuk menyimpan angka desimal (pecahan).",
+        "bahasa": "Pascal"
+    },
+    {
+        "soal": "Apa output dari kode: writeln(ord('A'));",
+        "pilihan": [
+            "65",
+            "66",
+            "97",
+            "A"
+        ],
+        "jawaban": "65",
+        "deskripsi": "Fungsi ord mengembalikan nilai ASCII dari karakter, 'A' adalah 65.",
+        "bahasa": "Pascal"
+    },
+    {
+        "soal": "Apa fungsi dari procedure dalam Pascal?",
+        "pilihan": [
+            "Menyimpan data",
+            "Membuat perulangan",
+            "Membuat subprogram tanpa nilai balik",
+            "Mengembalikan nilai"
+        ],
+        "jawaban": "Membuat subprogram tanpa nilai balik",
+        "deskripsi": "Procedure digunakan untuk menjalankan perintah tanpa mengembalikan nilai.",
+        "bahasa": "Pascal"
+    },
+    {
+        "soal": "Apa yang dilakukan perintah: readln(x);",
+        "pilihan": [
+            "Menampilkan nilai x",
+            "Membaca input ke variabel x",
+            "Menghapus x",
+            "Menambahkan x"
+        ],
+        "jawaban": "Membaca input ke variabel x",
+        "deskripsi": "readln digunakan untuk membaca input dari pengguna dan menyimpannya ke variabel.",
+        "bahasa": "Pascal"
+    },
+    {
+        "soal": "Bagaimana mendeklarasikan array 1 dimensi berisi 5 integer?",
+        "pilihan": [
+            "array[1..5] of integer;",
+            "array(5) of integer;",
+            "int[5];",
+            "array integer[1..5];"
+        ],
+        "jawaban": "array[1..5] of integer;",
+        "deskripsi": "Deklarasi array Pascal: array[index_range] of tipe_data;",
+        "bahasa": "Pascal"
+    },
+    {
+        "soal": "Fungsi dari 'begin' dan 'end' di Pascal?",
+        "pilihan": [
+            "Untuk komentar",
+            "Untuk mendeklarasikan variabel",
+            "Menandai blok kode",
+            "Mengulang kode"
+        ],
+        "jawaban": "Menandai blok kode",
+        "deskripsi": "Begin dan end digunakan untuk menandai awal dan akhir blok kode di Pascal.",
+        "bahasa": "Pascal"
+    },
+    {
+        "soal": "Apa hasil dari kode: writeln(sqr(4));",
+        "pilihan": [
+            "8",
+            "16",
+            "4",
+            "2"
+        ],
+        "jawaban": "16",
+        "deskripsi": "Fungsi sqr(x) mengembalikan x kuadrat, jadi sqr(4) = 16.",
+        "bahasa": "Pascal"
+    },
+    {
+        "soal": "Tipe data boolean memiliki nilai?",
+        "pilihan": [
+            "true dan false",
+            "0 dan 1",
+            "string dan char",
+            "ya dan tidak"
+        ],
+        "jawaban": "true dan false",
+        "deskripsi": "Tipe boolean dalam Pascal menyimpan nilai logika: true atau false.",
+        "bahasa": "Pascal"
+    },
+    {
+        "soal": "Apa hasil dari kode: writeln('Hello', ' World');",
+        "pilihan": [
+            "HelloWorld",
+            "Hello World",
+            "Hello, World",
+            "Hello"
+        ],
+        "jawaban": "Hello World",
+        "deskripsi": "Beberapa string di writeln otomatis digabung dengan spasi.",
+        "bahasa": "Pascal"
+    },
+    {
+        "soal": "Statement untuk perulangan yang pasti dijalankan minimal 1 kali?",
+        "pilihan": [
+            "while-do",
+            "for-do",
+            "repeat-until",
+            "if-then"
+        ],
+        "jawaban": "repeat-until",
+        "deskripsi": "repeat-until selalu menjalankan blok kode minimal satu kali sebelum memeriksa kondisi.",
+        "bahasa": "Pascal"
+    },
+    {
+        "soal": "Fungsi dari operator := di Pascal?",
+        "pilihan": [
+            "Operator aritmatika",
+            "Perbandingan",
+            "Penugasan nilai",
+            "Operator logika"
+        ],
+        "jawaban": "Penugasan nilai",
+        "deskripsi": "Operator := digunakan untuk memberi nilai ke variabel (assignment).",
+        "bahasa": "Pascal"
+    },
+    {
+        "soal": "Apa fungsi dari 'const' di Pascal?",
+        "pilihan": [
+            "Mendeklarasikan tipe data",
+            "Membuat variabel tetap",
+            "Mendeklarasikan prosedur",
+            "Menjalankan program"
+        ],
+        "jawaban": "Membuat variabel tetap",
+        "deskripsi": "Const digunakan untuk mendeklarasikan nilai konstan yang tidak bisa diubah.",
+        "bahasa": "Pascal"
+    },
+    {
+        "soal": "Apa hasil dari writeln(round(4.6));",
+        "pilihan": [
+            "4",
+            "5",
+            "4.6",
+            "Error"
+        ],
+        "jawaban": "5",
+        "deskripsi": "Fungsi round membulatkan angka ke bilangan bulat terdekat.",
+        "bahasa": "Pascal"
+    },
+    {
+        "soal": "Tipe data untuk karakter tunggal dalam Pascal?",
+        "pilihan": [
+            "string",
+            "char",
+            "text",
+            "byte"
+        ],
+        "jawaban": "char",
+        "deskripsi": "Tipe char menyimpan satu karakter tunggal, berbeda dengan string yang menyimpan banyak karakter.",
+        "bahasa": "Pascal"
+    },
+    {
+        "soal": "Perintah untuk membuat komentar satu baris?",
+        "pilihan": [
+            "//",
+            "(* *)",
+            "{}",
+            "--"
+        ],
+        "jawaban": "//",
+        "deskripsi": "Dalam Pascal modern (Free Pascal, Delphi), komentar satu baris bisa ditulis dengan //.",
+        "bahasa": "Pascal"
+    },
+    {
+        "soal": "Apa output dari: writeln(trunc(9.8));",
+        "pilihan": [
+            "9",
+            "10",
+            "9.8",
+            "Error"
+        ],
+        "jawaban": "9",
+        "deskripsi": "Fungsi trunc memotong bagian desimal tanpa pembulatan.",
+        "bahasa": "Pascal"
+    },
+    {
+        "soal": "Apa arti dari: var x: integer;",
+        "pilihan": [
+            "Menampilkan nilai integer",
+            "Mendeklarasikan variabel x bertipe integer",
+            "Mengubah tipe x",
+            "Membuat prosedur"
+        ],
+        "jawaban": "Mendeklarasikan variabel x bertipe integer",
+        "deskripsi": "Keyword 'var' digunakan untuk mendeklarasikan variabel.",
+        "bahasa": "Pascal"
+    },
+    {
+        "soal": "Bagaimana menampilkan output ke layar?",
+        "pilihan": [
+            "input()",
+            "print()",
+            "write()",
+            "scan()"
+        ],
+        "jawaban": "write()",
+        "deskripsi": "Fungsi 'write' dan 'writeln' digunakan untuk mencetak ke layar di Pascal.",
+        "bahasa": "Pascal"
+    },
+    {
+        "soal": "Apa perbedaan writeln dan write?",
+        "pilihan": [
+            "write mencetak baris baru, writeln tidak",
+            "writeln mencetak baris baru setelah output",
+            "write mencetak dua kali",
+            "writeln hanya untuk angka"
+        ],
+        "jawaban": "writeln mencetak baris baru setelah output",
+        "deskripsi": "writeln mencetak output dan langsung pindah ke baris baru, sementara write tidak.",
+        "bahasa": "Pascal"
+    },
+    {
+        "soal": "Apa output dari: System.out.println(10 / 4);",
+        "pilihan": [
+            "2.5",
+            "2",
+            "3",
+            "2.0"
+        ],
+        "jawaban": "2",
+        "deskripsi": "Dalam Java, pembagian antara dua bilangan bulat menghasilkan bilangan bulat (integer division).",
+        "bahasa": "Java"
+    },
+    {
+        "soal": "Apa tipe data untuk menyimpan karakter tunggal?",
+        "pilihan": [
+            "String",
+            "char",
+            "Character",
+            "text"
+        ],
+        "jawaban": "char",
+        "deskripsi": "Tipe data 'char' digunakan untuk menyimpan satu karakter dalam Java.",
+        "bahasa": "Java"
+    },
+    {
+        "soal": "Apa fungsi dari method 'main' di Java?",
+        "pilihan": [
+            "Menampilkan output",
+            "Memulai eksekusi program",
+            "Membuat objek",
+            "Deklarasi variabel"
+        ],
+        "jawaban": "Memulai eksekusi program",
+        "deskripsi": "Method 'public static void main(String[] args)' adalah titik awal eksekusi program Java.",
+        "bahasa": "Java"
+    },
+    {
+        "soal": "Apa hasil dari: System.out.println(3 + 4 + \"Java\");",
+        "pilihan": [
+            "7Java",
+            "34Java",
+            "Java7",
+            "Java34"
+        ],
+        "jawaban": "7Java",
+        "deskripsi": "Operasi dilakukan dari kiri ke kanan: 3 + 4 = 7, lalu 7 + 'Java' = '7Java'.",
+        "bahasa": "Java"
+    },
+    {
+        "soal": "Apa keyword untuk membuat objek di Java?",
+        "pilihan": [
+            "object",
+            "make",
+            "new",
+            "create"
+        ],
+        "jawaban": "new",
+        "deskripsi": "Keyword 'new' digunakan untuk membuat objek dari sebuah class.",
+        "bahasa": "Java"
+    },
+    {
+        "soal": "Apa hasil dari: System.out.println(5 == 5);",
+        "pilihan": [
+            "true",
+            "false",
+            "Error",
+            "5"
+        ],
+        "jawaban": "true",
+        "deskripsi": "Operator == digunakan untuk membandingkan dua nilai.",
+        "bahasa": "Java"
+    },
+    {
+        "soal": "Apa nama package dasar Java untuk input/output?",
+        "pilihan": [
+            "java.util",
+            "java.io",
+            "java.input",
+            "java.system"
+        ],
+        "jawaban": "java.io",
+        "deskripsi": "java.io berisi class-class untuk operasi input dan output seperti File, InputStream, dll.",
+        "bahasa": "Java"
+    },
+    {
+        "soal": "Apa fungsi dari 'System.out.println();'?",
+        "pilihan": [
+            "Input data",
+            "Menampilkan data ke layar",
+            "Membuat variabel",
+            "Menghitung nilai"
+        ],
+        "jawaban": "Menampilkan data ke layar",
+        "deskripsi": "System.out.println mencetak teks atau nilai ke layar konsol dengan baris baru.",
+        "bahasa": "Java"
+    },
+    {
+        "soal": "Bagaimana mendeklarasikan array integer berisi 5 elemen?",
+        "pilihan": [
+            "int[] arr = new int[5];",
+            "int arr[5];",
+            "int arr = int[5];",
+            "array<int> arr = 5;"
+        ],
+        "jawaban": "int[] arr = new int[5];",
+        "deskripsi": "Deklarasi array di Java menggunakan sintaks: tipe[] nama = new tipe[ukuran];",
+        "bahasa": "Java"
+    },
+    {
+        "soal": "Keyword untuk mendeklarasikan class baru?",
+        "pilihan": [
+            "class",
+            "type",
+            "struct",
+            "define"
+        ],
+        "jawaban": "class",
+        "deskripsi": "Keyword 'class' digunakan untuk mendefinisikan kelas di Java.",
+        "bahasa": "Java"
+    },
+    {
+        "soal": "Apa keyword untuk mewarisi class lain?",
+        "pilihan": [
+            "implement",
+            "extend",
+            "inherits",
+            "super"
+        ],
+        "jawaban": "extend",
+        "deskripsi": "Kata kunci 'extends' digunakan untuk pewarisan class (inheritance).",
+        "bahasa": "Java"
+    },
+    {
+        "soal": "Apa hasil dari: \"Java\".length();",
+        "pilihan": [
+            "3",
+            "4",
+            "5",
+            "Error"
+        ],
+        "jawaban": "4",
+        "deskripsi": "Method length() mengembalikan jumlah karakter dalam string.",
+        "bahasa": "Java"
+    },
+    {
+        "soal": "Tipe data 'boolean' di Java dapat bernilai?",
+        "pilihan": [
+            "true dan false",
+            "1 dan 0",
+            "yes dan no",
+            "null dan not null"
+        ],
+        "jawaban": "true dan false",
+        "deskripsi": "Tipe boolean hanya bisa bernilai true atau false.",
+        "bahasa": "Java"
+    },
+    {
+        "soal": "Apa fungsi dari keyword 'static'?",
+        "pilihan": [
+            "Membuat variabel konstan",
+            "Menjadikan anggota milik class, bukan objek",
+            "Mengunci method",
+            "Membuat thread"
+        ],
+        "jawaban": "Menjadikan anggota milik class, bukan objek",
+        "deskripsi": "'static' menjadikan variabel atau method dimiliki oleh class, bukan instance (objek).",
+        "bahasa": "Java"
+    },
+    {
+        "soal": "Apa arti dari konstruktor di Java?",
+        "pilihan": [
+            "Method yang menghapus objek",
+            "Method yang dipanggil saat objek dibuat",
+            "Method yang mengatur output",
+            "Method untuk looping"
+        ],
+        "jawaban": "Method yang dipanggil saat objek dibuat",
+        "deskripsi": "Constructor adalah method khusus yang dipanggil saat objek dari class dibuat.",
+        "bahasa": "Java"
+    },
+    {
+        "soal": "Apa output dari: System.out.println(2 + 3 * 4);",
+        "pilihan": [
+            "20",
+            "14",
+            "24",
+            "18"
+        ],
+        "jawaban": "14",
+        "deskripsi": "Operasi perkalian memiliki prioritas lebih tinggi, jadi 3*4 = 12, lalu 2 + 12 = 14.",
+        "bahasa": "Java"
+    },
+    {
+        "soal": "Apa yang dilakukan perintah: import java.util.Scanner;",
+        "pilihan": [
+            "Mengaktifkan debug",
+            "Mengimpor class Scanner",
+            "Menghapus package",
+            "Menjalankan Scanner"
+        ],
+        "jawaban": "Mengimpor class Scanner",
+        "deskripsi": "Statement import digunakan untuk mengakses class dari package tertentu.",
+        "bahasa": "Java"
+    },
+    {
+        "soal": "Apa yang benar tentang overloading method di Java?",
+        "pilihan": [
+            "Harus beda nama",
+            "Harus beda return type",
+            "Boleh nama sama tapi beda parameter",
+            "Tidak boleh nama sama"
+        ],
+        "jawaban": "Boleh nama sama tapi beda parameter",
+        "deskripsi": "Method overloading memungkinkan dua method dengan nama sama tapi parameter berbeda.",
+        "bahasa": "Java"
+    },
+    {
+        "soal": "Bagaimana membuat komentar satu baris di Java?",
+        "pilihan": [
+            "/* */",
+            "//",
+            "#",
+            "<!-- -->"
+        ],
+        "jawaban": "//",
+        "deskripsi": "Komentar satu baris di Java menggunakan dua garis miring (//).",
+        "bahasa": "Java"
+    },
+    {
+        "soal": "Apa hasil dari: System.out.println(\"A\" + 1);",
+        "pilihan": [
+            "A1",
+            "66",
+            "B",
+            "Error"
+        ],
+        "jawaban": "A1",
+        "deskripsi": "Karena 'A' adalah string, 1 juga akan dikonversi ke string sehingga hasilnya adalah 'A1'.",
+        "bahasa": "Java"
+    },
+    {
+        "soal": "Apa hasil dari: print(3 + 2 * 4)",
+        "pilihan": [
+            "20",
+            "11",
+            "14",
+            "10"
+        ],
+        "jawaban": "11",
+        "deskripsi": "Operator * memiliki prioritas lebih tinggi dari +, jadi 2 * 4 = 8, lalu 3 + 8 = 11.",
+        "bahasa": "Swift"
+    },
+    {
+        "soal": "Bagaimana mendeklarasikan variabel yang dapat diubah di Swift?",
+        "pilihan": [
+            "let",
+            "var",
+            "const",
+            "mutable"
+        ],
+        "jawaban": "var",
+        "deskripsi": "Kata kunci 'var' digunakan untuk variabel yang nilainya bisa diubah.",
+        "bahasa": "Swift"
+    },
+    {
+        "soal": "Apa hasil dari: print(\"Swift\" + \"Lang\")",
+        "pilihan": [
+            "SwiftLang",
+            "Swift Lang",
+            "Error",
+            "LangSwift"
+        ],
+        "jawaban": "SwiftLang",
+        "deskripsi": "Operator + digunakan untuk menggabungkan dua string dalam Swift.",
+        "bahasa": "Swift"
+    },
+    {
+        "soal": "Bagaimana cara membuat konstanta di Swift?",
+        "pilihan": [
+            "const",
+            "let",
+            "final",
+            "val"
+        ],
+        "jawaban": "let",
+        "deskripsi": "Kata kunci 'let' digunakan untuk mendeklarasikan konstanta (nilai tidak bisa diubah).",
+        "bahasa": "Swift"
+    },
+    {
+        "soal": "Tipe data untuk menyimpan teks di Swift adalah?",
+        "pilihan": [
+            "text",
+            "String",
+            "Char",
+            "str"
+        ],
+        "jawaban": "String",
+        "deskripsi": "Tipe data 'String' digunakan untuk menyimpan teks di Swift.",
+        "bahasa": "Swift"
+    },
+    {
+        "soal": "Apa fungsi dari 'print()' di Swift?",
+        "pilihan": [
+            "Mengambil input",
+            "Menampilkan output",
+            "Mendeklarasikan variabel",
+            "Membuat objek"
+        ],
+        "jawaban": "Menampilkan output",
+        "deskripsi": "'print()' digunakan untuk mencetak nilai ke konsol.",
+        "bahasa": "Swift"
+    },
+    {
+        "soal": "Bagaimana mendeklarasikan array integer di Swift?",
+        "pilihan": [
+            "let arr: [Int]",
+            "let arr = int[]",
+            "array Int[]",
+            "Int array[]"
+        ],
+        "jawaban": "let arr: [Int]",
+        "deskripsi": "Deklarasi array integer menggunakan sintaks [Tipe].",
+        "bahasa": "Swift"
+    },
+    {
+        "soal": "Apa hasil dari: print(type(of: 3.14))",
+        "pilihan": [
+            "Double",
+            "Float",
+            "Int",
+            "String"
+        ],
+        "jawaban": "Double",
+        "deskripsi": "Angka desimal default di Swift bertipe Double.",
+        "bahasa": "Swift"
+    },
+    {
+        "soal": "Apa arti dari optional dalam Swift?",
+        "pilihan": [
+            "Nilai pasti",
+            "Nilai bisa null atau ada",
+            "Tipe data tetap",
+            "Operator logika"
+        ],
+        "jawaban": "Nilai bisa null atau ada",
+        "deskripsi": "Optional berarti sebuah variabel bisa menyimpan nilai atau nil.",
+        "bahasa": "Swift"
+    },
+    {
+        "soal": "Bagaimana cara meng-unwrap optional dengan aman?",
+        "pilihan": [
+            "!",
+            "if let",
+            "unwrap()",
+            "check()"
+        ],
+        "jawaban": "if let",
+        "deskripsi": "if let digunakan untuk meng-unwrap optional dengan aman.",
+        "bahasa": "Swift"
+    },
+    {
+        "soal": "Apa keyword untuk perulangan di Swift?",
+        "pilihan": [
+            "for",
+            "repeat",
+            "loop",
+            "while"
+        ],
+        "jawaban": "for",
+        "deskripsi": "Swift mendukung perulangan dengan keyword for, while, dan repeat.",
+        "bahasa": "Swift"
+    },
+    {
+        "soal": "Apa arti dari simbol ? dalam deklarasi tipe di Swift?",
+        "pilihan": [
+            "Array",
+            "Function",
+            "Optional",
+            "Pointer"
+        ],
+        "jawaban": "Optional",
+        "deskripsi": "Tanda ? menunjukkan bahwa tipe tersebut adalah optional.",
+        "bahasa": "Swift"
+    },
+    {
+        "soal": "Apa hasil dari: print(\"Hello \\(2 + 2)\")",
+        "pilihan": [
+            "Hello 4",
+            "Hello 2 + 2",
+            "Hello",
+            "Error"
+        ],
+        "jawaban": "Hello 4",
+        "deskripsi": "Swift mendukung interpolasi string dengan \\().",
+        "bahasa": "Swift"
+    },
+    {
+        "soal": "Tipe data untuk bilangan bulat?",
+        "pilihan": [
+            "Double",
+            "Float",
+            "Int",
+            "String"
+        ],
+        "jawaban": "Int",
+        "deskripsi": "'Int' adalah tipe untuk bilangan bulat di Swift.",
+        "bahasa": "Swift"
+    },
+    {
+        "soal": "Apa fungsi dari guard dalam Swift?",
+        "pilihan": [
+            "Melindungi data",
+            "Menangani error",
+            "Validasi awal kondisi",
+            "Looping"
+        ],
+        "jawaban": "Validasi awal kondisi",
+        "deskripsi": "'guard' digunakan untuk validasi dan keluar lebih awal jika kondisi tidak terpenuhi.",
+        "bahasa": "Swift"
+    },
+    {
+        "soal": "Apa arti dari: let name: String? = nil",
+        "pilihan": [
+            "name adalah string kosong",
+            "name bertipe optional string dan nil",
+            "name adalah array",
+            "Error"
+        ],
+        "jawaban": "name bertipe optional string dan nil",
+        "deskripsi": "Tipe 'String?' berarti optional string, bisa bernilai nil.",
+        "bahasa": "Swift"
+    },
+    {
+        "soal": "Apa hasil dari: print(\"Swift\".count)",
+        "pilihan": [
+            "5",
+            "6",
+            "Error",
+            "0"
+        ],
+        "jawaban": "5",
+        "deskripsi": "Method .count mengembalikan panjang string.",
+        "bahasa": "Swift"
+    },
+    {
+        "soal": "Bagaimana cara mendeklarasikan fungsi di Swift?",
+        "pilihan": [
+            "func",
+            "function",
+            "def",
+            "method"
+        ],
+        "jawaban": "func",
+        "deskripsi": "Swift menggunakan keyword 'func' untuk deklarasi fungsi.",
+        "bahasa": "Swift"
+    },
+    {
+        "soal": "Bagaimana menampilkan komentar satu baris?",
+        "pilihan": [
+            "--",
+            "//",
+            "#",
+            "%%"
+        ],
+        "jawaban": "//",
+        "deskripsi": "Komentar satu baris di Swift menggunakan // seperti di banyak bahasa C-style.",
+        "bahasa": "Swift"
+    },
+    {
+        "soal": "Apa arti dari: let total = 5.0 / 2",
+        "pilihan": [
+            "2",
+            "2.5",
+            "Error",
+            "2.0"
+        ],
+        "jawaban": "2.5",
+        "deskripsi": "Swift akan otomatis mengkonversi int ke double saat melakukan operasi dengan double.",
+        "bahasa": "Swift"
+    }
+]
