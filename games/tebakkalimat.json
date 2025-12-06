@@ -513,5 +513,243 @@
     "index": 102,
     "soal": "Bagai makan  ...  simalakama",
     "jawaban": "buah"
-  }
+  },
+  { 
+    "index": 103, 
+    "soal": "Seperti mencencang air, tidak  ... ", 
+    "jawaban": "putus" 
+  },
+{ 
+  "index": 104, 
+  "soal": "Berguru kepalang ajar, bagai bunga  ... ", 
+  "jawaban": "kembang" 
+},
+{ 
+  "index": 105, 
+  "soal": "Bagai  ...  di atas bukit", 
+  "jawaban": "kapas" 
+},
+{ 
+  "index": 106, 
+  "soal": "Sekali lancung ke ujian, seumur hidup orang tak  ... ", 
+  "jawaban": "percaya" 
+},
+{ 
+  "index": 107, 
+  "soal": "Bagai  ...  ditarik-tarik", 
+  "jawaban": "karet" 
+},
+{ 
+  "index": 108, 
+  "soal": "Bagaikan aur dengan  ... ", 
+  "jawaban": "tebing" 
+},
+{ 
+  "index": 109, 
+  "soal": "Banyak  ...  daripada isi", 
+  "jawaban": "kulit" 
+},
+{ 
+  "index": 110, 
+  "soal": "Bagai  ...  makan kedondong", 
+  "jawaban": "makan" 
+},
+{ 
+  "index": 111, 
+  "soal": "Bagaikan minyak dengan  ... ", 
+  "jawaban": "air" 
+},
+{ 
+  "index": 112, 
+  "soal": "Bagaikan  ...  berpisah tiada", 
+  "jawaban": "ombak" 
+},
+{ 
+  "index": 113, 
+  "soal": "Bagai pungguk merindukan  ... ", 
+  "jawaban": "bulan" 
+},
+{ 
+  "index": 114, 
+  "soal": "Air tenang menghanyutkan, air  ...  menenggelamkan", 
+  "jawaban": "deras" 
+},
+{ 
+  "index": 115, 
+  "soal": "Bagai tikus masuk  ... ", 
+  "jawaban": "rumah" 
+},
+{ 
+  "index": 116, 
+  "soal": "Bagai kacang  ...  tanah", 
+  "jawaban": "dengan" 
+},
+{ 
+  "index": 117, 
+  "soal": "Bagai menegakkan benang  ... ", 
+  "jawaban": "basah" 
+},
+{ 
+  "index": 118, 
+  "soal": "Bagai api dalam  ... ", 
+  "jawaban": "sekam" 
+},
+{ 
+  "index": 119, 
+  "soal": "Bagai ikan pulang ke  ... ",
+  "jawaban": "lubuk" 
+},
+{ 
+  "index": 120, 
+  "soal": "Bagaikan air  ... ", 
+  "jawaban": "mengalir" 
+},
+{
+  "index": 121, 
+  "soal": "Bagai mencurahkan garam ke  ... ", 
+  "jawaban": "laut" 
+},
+{ 
+  "index": 122, 
+  "soal": "Seperti rusa masuk  ... ", 
+  "jawaban": "kampung" 
+},
+{ 
+  "index": 123, 
+  "soal": "Bagai burung terlepas dari  ... ", 
+  "jawaban": "sangkar" 
+},
+{ 
+  "index": 124, 
+  "soal": "Bagai abu di  ... ", 
+  "jawaban": "atas angin" 
+},
+{ 
+  "index": 125, 
+  "soal": "Bagaikan telur di ujung  ... ", 
+  "jawaban": "tanduk" 
+},
+{ 
+  "index": 126, 
+  "soal": "Bagai lipas kudung, cepat  ... ", 
+  "jawaban": "bergerak" 
+},
+{ 
+  "index": 127, 
+  "soal": "Bagai ular  ...  hitam", 
+  "jawaban": "lidi" 
+},
+{ 
+  "index": 128, 
+  "soal": "Bagai menatang minyak yang  ... ", 
+  "jawaban": "penuh" 
+},
+{ 
+  "index": 129, 
+  "soal": "Bagai belut di  ...  lumpur", 
+  "jawaban": "dalam" 
+},
+{ 
+  "index": 130, 
+  "soal": "Bagai anak ayam kehilangan  ... ", 
+  "jawaban": "induk" 
+},
+{ 
+  "index": 131, 
+  "soal": "Bagaikan menepuk  ...  di dulang", 
+  "jawaban": "air" 
+},
+{ 
+  "index": 132, 
+  "soal": "Bagai mentimun bagaikan  ... ", "jawaban": "durian" },
+{
+  "index": 133,
+  "soal": "Bagai api  ...  sekam", 
+  "jawaban": "dalam" 
+},
+{ 
+  "index": 134,
+  "soal": "Bagai lontar  ...  terbang", 
+  "jawaban": "membumbung"
+},
+{ 
+  "index": 135, 
+  "soal": "Bagai tikus jatuh ke  ... ", 
+  "jawaban": "lumbung" 
+},
+{ 
+  "index": 136, 
+  "soal": "Bagai mendapat  ...  di hati", 
+  "jawaban": "emas" 
+},
+{ 
+  "index": 137,
+  "soal": "Bagai  ...  patah sebelah",
+  "jawaban": "sayap" 
+},
+{ 
+  "index": 138,
+  "soal": "Bagai kumbang dan bunga tak pernah  ... ", 
+  "jawaban": "berpisah" 
+},
+{ 
+  "index": 139, 
+  "soal": "Bagai muka  ...  sabun", 
+  "jawaban": "kena" 
+},
+{ 
+  "index": 140, 
+  "soal": "Bagai bulan  ...  payung",
+  "jawaban": "dipayungi" 
+},
+{ 
+  "index": 141, 
+  "soal": "Bagai cincin dengan  ... ", 
+  "jawaban": "jari"
+},
+{ 
+  "index": 142,
+  "soal": "Bagai kambing masuk  ... ", 
+  "jawaban": "kebun" 
+},
+{ 
+  "index": 143, 
+  "soal": "Bagai ular hendak  ... ",
+  "jawaban": "berganti kulit" 
+},
+{ 
+  "index": 144, 
+  "soal": "Bagai menatang  ...  penuh", 
+  "jawaban": "air" 
+},
+{ 
+  "index": 145, 
+  "soal": "Bagai api  ...  padam", 
+  "jawaban": "tak kunjung" 
+},
+{ 
+  "index": 146, 
+  "soal": "Bagai orang haus mendapat  ... ", 
+  "jawaban": "air" 
+},
+{ 
+  "index": 147, 
+  "soal": "Bagai tikus di  ...  kucing", 
+  "jawaban": "kejar"
+},
+{
+  "index": 148,
+  "soal": "Bagai padi  ...  masak",
+  "jawaban": "menguning" 
+},
+{ 
+  "index": 149, 
+  "soal": "Bagai air di  ...  bara", 
+  "jawaban": "atas" 
+},
+{ 
+  "index": 150, 
+  "soal": "Bagai perahu hilang di  ... ", 
+  "jawaban": "laut" 
+}
 ]
