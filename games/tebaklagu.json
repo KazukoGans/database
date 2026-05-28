@@ -203,5 +203,10 @@
     "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/streetcar.opus",
     "judul": "Streetcar",
     "artis": "Daniel Caesar"
+  },
+  {
+    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/youlany.opus",
+    "judul": "you!",
+    "artis": "LANY"
   }
 ]
