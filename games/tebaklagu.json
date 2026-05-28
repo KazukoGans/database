@@ -208,5 +208,10 @@
     "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/youlany.opus",
     "judul": "you!",
     "artis": "LANY"
+  },
+  {
+    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/dropdead.opus",
+    "judul": "drop dead",
+    "artis": "Olivia Rodrigo"
   }
 ]
