@@ -39,7 +39,7 @@
     "judul": "bad",
     "artis": "wave to earth"
   },
- {
+  {
     "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/tadow.opus",
     "judul": "Tadow",
     "artis": "Masego + FKJ"
@@ -198,5 +198,10 @@
     "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/suprises.opus",
     "judul": "No Suprises",
     "artis": "Radiohead"
+  },
+  {
+    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/streetcar.opus",
+    "judul": "Streetcar",
+    "artis": "Daniel Caesar"
   }
 ]
