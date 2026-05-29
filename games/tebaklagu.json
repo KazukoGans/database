@@ -228,5 +228,10 @@
     "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/sunnyday.opus",
     "judul": "Sunny day",
     "artis": "beabadoobee"
+  },
+  {
+    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/earrings.opus",
+    "judul": "Earrings",
+    "artis": "Malcolm Todd"
   }
 ]
