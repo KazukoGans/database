@@ -208,5 +208,10 @@
     "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/dropdead.opus",
     "judul": "drop dead",
     "artis": "Olivia Rodrigo"
+  },
+  {
+    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/themanwhocantbemoved.opus",
+    "judul": "The Man Who Can't Be Moved",
+    "artis": "The Script"
   }
 ]
